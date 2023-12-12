@@ -2,6 +2,7 @@
 
 [![Website AntoineLesieur.fr](https://img.shields.io/website-up-down-green-red/http/antoinelesieur.fr.svg)](http://antoinelesieur.fr/)
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/X4BtdBMnvu)
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/itzwam)
 
 # My Stats
 
