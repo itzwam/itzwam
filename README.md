@@ -7,6 +7,7 @@
 My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io) ☁️ and Founder of [Kitten Connect](https://kittenconnect.net/) 🐈‍⬛.
 
 [![Website AntoineLesieur.fr](https://img.shields.io/website-up-down-green-red/http/antoinelesieur.fr.svg)](http://antoinelesieur.fr/)
+[![Update README](https://github.com/itzwam/itzwam/actions/workflows/update.yaml/badge.svg)](https://github.com/itzwam/itzwam/actions/workflows/update.yaml)
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/X4BtdBMnvu)
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/itzwam)
 
