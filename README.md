@@ -17,12 +17,12 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo. (2 months ago)
 - [KittenConnect/.github](https://github.com/KittenConnect/.github) -  (4 months ago)
 - [KittenConnect/I18N](https://github.com/KittenConnect/I18N) - Parlos anglos mi amigos (9 months ago)
-- [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net (11 months ago)
+- [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) ([6.1.0](https://github.com/alice-lg/alice-lg/releases/tag/6.1.0), 2 months ago) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net
-- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) ([2.5.7](https://github.com/Joxit/docker-registry-ui/releases/tag/2.5.7), 2 months ago) - The simplest and most complete UI for your private registry
+- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) ([2.5.7](https://github.com/Joxit/docker-registry-ui/releases/tag/2.5.7), 3 months ago) - The simplest and most complete UI for your private registry
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) ([v1.1](https://github.com/luizdepra/hugo-coder/releases/tag/v1.1), 2 years ago) - A minimalist blog theme for hugo.
 
 #### 🔨 My recent Pull Requests
@@ -40,9 +40,9 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### ⭐ Recent Stars
 
-- [xddxdd/route-chain](https://github.com/xddxdd/route-chain) - A small app to generate a long path in traceroute. (1 day ago)
-- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system (3 days ago)
-- [helloSystem/hello](https://github.com/helloSystem/hello) - Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better! (4 days ago)
+- [xddxdd/route-chain](https://github.com/xddxdd/route-chain) - A small app to generate a long path in traceroute. (2 days ago)
+- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system (4 days ago)
+- [helloSystem/hello](https://github.com/helloSystem/hello) - Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better! (5 days ago)
 - [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets (1 month ago)
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer (1 month ago)
 - [devtron-labs/silver-surfer](https://github.com/devtron-labs/silver-surfer) - Kubernetes objects api-version compatibility checker and provides migration path for K8s objects and prepare it for cluster upgrades (2 months ago)
