@@ -22,7 +22,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔭 Latest releases I've contributed to
 
-- [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) ([6.1.0](https://github.com/alice-lg/alice-lg/releases/tag/6.1.0), 3 months ago) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net
 - [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) ([2.5.7](https://github.com/Joxit/docker-registry-ui/releases/tag/2.5.7), 3 months ago) - The simplest and most complete UI for your private registry
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) ([v1.1](https://github.com/luizdepra/hugo-coder/releases/tag/v1.1), 2 years ago) - A minimalist blog theme for hugo.
 
