@@ -18,7 +18,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo. (2 months ago)
 - [KittenConnect/.github](https://github.com/KittenConnect/.github) -  (5 months ago)
 - [KittenConnect/I18N](https://github.com/KittenConnect/I18N) - Parlos anglos mi amigos (9 months ago)
-- [alice-lg/alice-lg](https://github.com/alice-lg/alice-lg) - Alice - Through the Looking Glass https://lg.de-cix.net https://lg.ecix.net (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
