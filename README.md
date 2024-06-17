@@ -13,7 +13,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 👷 Check out what I'm currently working on
 
-- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - Big pile of shit containg a bunch of Nix-Related stuff (today)
+- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - Big pile of shit containg a bunch of Nix-Related stuff (1 day ago)
 - [KittenConnect/lix-bsd-port](https://github.com/KittenConnect/lix-bsd-port) - usr/ports/sysutil/lix (Like Nix) (3 weeks ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 month ago)
 - [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry (3 months ago)
@@ -34,14 +34,14 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [Avoid 400 - Too big request header when cookie is defined](https://github.com/Joxit/docker-registry-ui/pull/356) on [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) (3 months ago)
 - [add support for ipFamilyPolicy (Dual Stack possibility)](https://github.com/qumine/charts/pull/12) on [qumine/charts](https://github.com/qumine/charts) (4 months ago)
 - [nixos-rebuild: Fetch Flake&#39;s default configurationName (Hostname) from targetHost](https://github.com/NixOS/nixpkgs/pull/283634) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 months ago)
-- [NixOS-Rebuild Automatic Hostname detection even when TargetHost](https://github.com/NixOS/nixpkgs/pull/281912) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 months ago)
+- [NixOS-Rebuild Automatic Hostname detection even when TargetHost](https://github.com/NixOS/nixpkgs/pull/281912) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 months ago)
 - [HomePage uses Params.urlFunc &#43; Based on HomePage relLink](https://github.com/luizdepra/hugo-coder/pull/872) on [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) (6 months ago)
 - [feat: add per-category blocked roles-list](https://github.com/discord-tickets/bot/pull/495) on [discord-tickets/bot](https://github.com/discord-tickets/bot) (7 months ago)
 - [Support Loading PYCompiled Modules](https://github.com/CumulusNetworks/ifupdown2/pull/280) on [CumulusNetworks/ifupdown2](https://github.com/CumulusNetworks/ifupdown2) (8 months ago)
 
 #### ⭐ Recent Stars
 
-- [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ (today)
+- [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ (1 day ago)
 - [nicolasbernard/kubepkgs](https://github.com/nicolasbernard/kubepkgs) - OCI &amp; Manifests collection (1 month ago)
 - [xddxdd/route-chain](https://github.com/xddxdd/route-chain) - A small app to generate a long path in traceroute. (1 month ago)
 - [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system (1 month ago)
@@ -49,7 +49,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets (2 months ago)
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer (2 months ago)
 - [devtron-labs/silver-surfer](https://github.com/devtron-labs/silver-surfer) - Kubernetes objects api-version compatibility checker and provides migration path for K8s objects and prepare it for cluster upgrades (4 months ago)
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (5 months ago)
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (6 months ago)
 - [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (6 months ago)
 
 #### 🕶️ Some uselessfull stats
