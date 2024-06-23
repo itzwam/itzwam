@@ -13,8 +13,8 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 👷 Check out what I'm currently working on
 
-- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - Big pile of shit containg a bunch of Nix-Related stuff (6 days ago)
-- [KittenConnect/lix-bsd-port](https://github.com/KittenConnect/lix-bsd-port) - usr/ports/sysutil/lix (Like Nix) (3 weeks ago)
+- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - Big pile of shit containg a bunch of Nix-Related stuff (1 week ago)
+- [KittenConnect/lix-bsd-port](https://github.com/KittenConnect/lix-bsd-port) - usr/ports/sysutil/lix (Like Nix) (4 weeks ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 month ago)
 - [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry (3 months ago)
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo. (3 months ago)
@@ -33,7 +33,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [chrony: Add support for individual options per server &#43; nixfmt](https://github.com/NixOS/nixpkgs/pull/299763) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
 - [Avoid 400 - Too big request header when cookie is defined](https://github.com/Joxit/docker-registry-ui/pull/356) on [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) (4 months ago)
 - [add support for ipFamilyPolicy (Dual Stack possibility)](https://github.com/qumine/charts/pull/12) on [qumine/charts](https://github.com/qumine/charts) (4 months ago)
-- [nixos-rebuild: Fetch Flake&#39;s default configurationName (Hostname) from targetHost](https://github.com/NixOS/nixpkgs/pull/283634) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 months ago)
+- [nixos-rebuild: Fetch Flake&#39;s default configurationName (Hostname) from targetHost](https://github.com/NixOS/nixpkgs/pull/283634) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 months ago)
 - [NixOS-Rebuild Automatic Hostname detection even when TargetHost](https://github.com/NixOS/nixpkgs/pull/281912) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 months ago)
 - [HomePage uses Params.urlFunc &#43; Based on HomePage relLink](https://github.com/luizdepra/hugo-coder/pull/872) on [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) (6 months ago)
 - [feat: add per-category blocked roles-list](https://github.com/discord-tickets/bot/pull/495) on [discord-tickets/bot](https://github.com/discord-tickets/bot) (8 months ago)
@@ -41,7 +41,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### ⭐ Recent Stars
 
-- [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ (6 days ago)
+- [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ (1 week ago)
 - [nicolasbernard/kubepkgs](https://github.com/nicolasbernard/kubepkgs) - OCI &amp; Manifests collection (1 month ago)
 - [xddxdd/route-chain](https://github.com/xddxdd/route-chain) - A small app to generate a long path in traceroute. (1 month ago)
 - [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system (1 month ago)
