@@ -30,7 +30,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 - [ferm: Fix import-ferm error importing ferm wrapped script](https://github.com/NixOS/nixpkgs/pull/310626) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
 - [SheBang for portability &#43; Fix KPlugin metadata.desktop deprecation warning](https://github.com/wsdfhjxc/kwin-scripts/pull/14) on [wsdfhjxc/kwin-scripts](https://github.com/wsdfhjxc/kwin-scripts) (2 months ago)
-- [chrony: Add support for individual options per server &#43; nixfmt](https://github.com/NixOS/nixpkgs/pull/299763) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
+- [chrony: Add support for individual options per server &#43; nixfmt](https://github.com/NixOS/nixpkgs/pull/299763) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 months ago)
 - [Avoid 400 - Too big request header when cookie is defined](https://github.com/Joxit/docker-registry-ui/pull/356) on [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) (4 months ago)
 - [add support for ipFamilyPolicy (Dual Stack possibility)](https://github.com/qumine/charts/pull/12) on [qumine/charts](https://github.com/qumine/charts) (4 months ago)
 - [nixos-rebuild: Fetch Flake&#39;s default configurationName (Hostname) from targetHost](https://github.com/NixOS/nixpkgs/pull/283634) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 months ago)
