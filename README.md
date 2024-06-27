@@ -17,9 +17,9 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [KittenConnect/lix-bsd-port](https://github.com/KittenConnect/lix-bsd-port) - usr/ports/sysutil/lix (Like Nix) (1 month ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 month ago)
 - [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry (3 months ago)
-- [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo. (3 months ago)
+- [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo. (4 months ago)
 - [KittenConnect/.github](https://github.com/KittenConnect/.github) -  (6 months ago)
-- [KittenConnect/I18N](https://github.com/KittenConnect/I18N) - Parlos anglos mi amigos (10 months ago)
+- [KittenConnect/I18N](https://github.com/KittenConnect/I18N) - Parlos anglos mi amigos (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
