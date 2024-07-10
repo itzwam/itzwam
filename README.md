@@ -16,7 +16,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [KittenConnect/nixos-onboarderOS](https://github.com/KittenConnect/nixos-onboarderOS) - NixOS LiveISO responsible of first integration to our infrastructure (1 week ago)
 - [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - Big pile of shit containg a bunch of Nix-Related stuff (3 weeks ago)
 - [KittenConnect/lix-bsd-port](https://github.com/KittenConnect/lix-bsd-port) - usr/ports/sysutil/lix (Like Nix) (1 month ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (1 month ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 months ago)
 - [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry (4 months ago)
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo. (4 months ago)
 - [KittenConnect/.github](https://github.com/KittenConnect/.github) -  (7 months ago)
@@ -29,7 +29,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [Rewrite for modules usage](https://github.com/KittenConnect/nixconfigs/pull/1) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
+- [Rewrite for modules usage](https://github.com/KittenConnect/nixconfigs/pull/1) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 days ago)
 - [ferm: Fix import-ferm error importing ferm wrapped script](https://github.com/NixOS/nixpkgs/pull/310626) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
 - [SheBang for portability &#43; Fix KPlugin metadata.desktop deprecation warning](https://github.com/wsdfhjxc/kwin-scripts/pull/14) on [wsdfhjxc/kwin-scripts](https://github.com/wsdfhjxc/kwin-scripts) (2 months ago)
 - [chrony: Add support for individual options per server &#43; nixfmt](https://github.com/NixOS/nixpkgs/pull/299763) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 months ago)
