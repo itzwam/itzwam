@@ -29,7 +29,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [Rewrite for modules usage](https://github.com/KittenConnect/nixconfigs/pull/1) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 days ago)
+- [Rewrite for modules usage](https://github.com/KittenConnect/nixconfigs/pull/1) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (5 days ago)
 - [ferm: Fix import-ferm error importing ferm wrapped script](https://github.com/NixOS/nixpkgs/pull/310626) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
 - [SheBang for portability &#43; Fix KPlugin metadata.desktop deprecation warning](https://github.com/wsdfhjxc/kwin-scripts/pull/14) on [wsdfhjxc/kwin-scripts](https://github.com/wsdfhjxc/kwin-scripts) (2 months ago)
 - [chrony: Add support for individual options per server &#43; nixfmt](https://github.com/NixOS/nixpkgs/pull/299763) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 months ago)
@@ -51,7 +51,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer (3 months ago)
 - [devtron-labs/silver-surfer](https://github.com/devtron-labs/silver-surfer) - Kubernetes objects api-version compatibility checker and provides migration path for K8s objects and prepare it for cluster upgrades (5 months ago)
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (6 months ago)
-- [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (6 months ago)
+- [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (7 months ago)
 
 #### 🕶️ Some uselessfull stats
 
