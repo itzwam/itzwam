@@ -14,7 +14,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 #### 👷 Check out what I'm currently working on
 
 - [KittenConnect/nixos-onboarderOS](https://github.com/KittenConnect/nixos-onboarderOS) - NixOS LiveISO responsible of first integration to our infrastructure (2 weeks ago)
-- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - Big pile of shit containg a bunch of Nix-Related stuff (3 weeks ago)
+- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - Big pile of shit containg a bunch of Nix-Related stuff (4 weeks ago)
 - [KittenConnect/lix-bsd-port](https://github.com/KittenConnect/lix-bsd-port) - usr/ports/sysutil/lix (Like Nix) (1 month ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (2 months ago)
 - [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry (4 months ago)
@@ -31,7 +31,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 - [Rewrite for modules usage](https://github.com/KittenConnect/nixconfigs/pull/1) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 week ago)
 - [ferm: Fix import-ferm error importing ferm wrapped script](https://github.com/NixOS/nixpkgs/pull/310626) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
-- [SheBang for portability &#43; Fix KPlugin metadata.desktop deprecation warning](https://github.com/wsdfhjxc/kwin-scripts/pull/14) on [wsdfhjxc/kwin-scripts](https://github.com/wsdfhjxc/kwin-scripts) (2 months ago)
+- [SheBang for portability &#43; Fix KPlugin metadata.desktop deprecation warning](https://github.com/wsdfhjxc/kwin-scripts/pull/14) on [wsdfhjxc/kwin-scripts](https://github.com/wsdfhjxc/kwin-scripts) (3 months ago)
 - [chrony: Add support for individual options per server &#43; nixfmt](https://github.com/NixOS/nixpkgs/pull/299763) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 months ago)
 - [Avoid 400 - Too big request header when cookie is defined](https://github.com/Joxit/docker-registry-ui/pull/356) on [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) (4 months ago)
 - [add support for ipFamilyPolicy (Dual Stack possibility)](https://github.com/qumine/charts/pull/12) on [qumine/charts](https://github.com/qumine/charts) (5 months ago)
@@ -42,7 +42,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### ⭐ Recent Stars
 
-- [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ (3 weeks ago)
+- [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ (4 weeks ago)
 - [nicolasbernard/kubepkgs](https://github.com/nicolasbernard/kubepkgs) - OCI &amp; Manifests collection (2 months ago)
 - [xddxdd/route-chain](https://github.com/xddxdd/route-chain) - A small app to generate a long path in traceroute. (2 months ago)
 - [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system (2 months ago)
