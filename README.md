@@ -29,6 +29,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [[PATCH] modules/openvpn: configs supports customArguments](https://github.com/NixOS/nixpkgs/pull/329265) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [Rewrite for modules usage](https://github.com/KittenConnect/nixconfigs/pull/1) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 weeks ago)
 - [ferm: Fix import-ferm error importing ferm wrapped script](https://github.com/NixOS/nixpkgs/pull/310626) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
 - [SheBang for portability &#43; Fix KPlugin metadata.desktop deprecation warning](https://github.com/wsdfhjxc/kwin-scripts/pull/14) on [wsdfhjxc/kwin-scripts](https://github.com/wsdfhjxc/kwin-scripts) (3 months ago)
@@ -38,7 +39,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [nixos-rebuild: Fetch Flake&#39;s default configurationName (Hostname) from targetHost](https://github.com/NixOS/nixpkgs/pull/283634) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 months ago)
 - [NixOS-Rebuild Automatic Hostname detection even when TargetHost](https://github.com/NixOS/nixpkgs/pull/281912) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 months ago)
 - [HomePage uses Params.urlFunc &#43; Based on HomePage relLink](https://github.com/luizdepra/hugo-coder/pull/872) on [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) (7 months ago)
-- [feat: add per-category blocked roles-list](https://github.com/discord-tickets/bot/pull/495) on [discord-tickets/bot](https://github.com/discord-tickets/bot) (9 months ago)
 
 #### ⭐ Recent Stars
 
