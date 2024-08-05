@@ -20,7 +20,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry (4 months ago)
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo. (5 months ago)
 - [KittenConnect/.github](https://github.com/KittenConnect/.github) -  (7 months ago)
-- [KittenConnect/I18N](https://github.com/KittenConnect/I18N) - Parlos anglos mi amigos (1 year ago)
 
 #### 🔭 Latest releases I've contributed to
 
