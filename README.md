@@ -30,7 +30,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 #### 🔨 My recent Pull Requests
 
 - [[PATCH] modules/openvpn: configs supports customArguments](https://github.com/NixOS/nixpkgs/pull/329265) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
-- [Rewrite for modules usage](https://github.com/KittenConnect/nixconfigs/pull/1) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 month ago)
+- [Rewrite for modules usage](https://github.com/KittenConnect/nixconfigs/pull/1) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 months ago)
 - [ferm: Fix import-ferm error importing ferm wrapped script](https://github.com/NixOS/nixpkgs/pull/310626) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 months ago)
 - [SheBang for portability &#43; Fix KPlugin metadata.desktop deprecation warning](https://github.com/wsdfhjxc/kwin-scripts/pull/14) on [wsdfhjxc/kwin-scripts](https://github.com/wsdfhjxc/kwin-scripts) (4 months ago)
 - [chrony: Add support for individual options per server &#43; nixfmt](https://github.com/NixOS/nixpkgs/pull/299763) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 months ago)
