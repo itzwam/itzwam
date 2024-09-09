@@ -13,7 +13,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 👷 Check out what I'm currently working on
 
-- [KittenConnect/rh-api](https://github.com/KittenConnect/rh-api) -  (4 weeks ago)
+- [KittenConnect/rh-api](https://github.com/KittenConnect/rh-api) -  (1 month ago)
 - [KittenConnect/nixos-onboarderOS](https://github.com/KittenConnect/nixos-onboarderOS) - NixOS LiveISO responsible of first integration to our infrastructure (2 months ago)
 - [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - Big pile of shit containg a bunch of Nix-Related stuff (2 months ago)
 - [KittenConnect/lix-bsd-port](https://github.com/KittenConnect/lix-bsd-port) - usr/ports/sysutil/lix (Like Nix) (3 months ago)
@@ -51,7 +51,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer (5 months ago)
 - [devtron-labs/silver-surfer](https://github.com/devtron-labs/silver-surfer) - Kubernetes objects api-version compatibility checker and provides migration path for K8s objects and prepare it for cluster upgrades (7 months ago)
 - [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (8 months ago)
-- [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (8 months ago)
+- [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (9 months ago)
 
 #### 🕶️ Some uselessfull stats
 
