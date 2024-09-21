@@ -36,7 +36,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [chrony: Add support for individual options per server &#43; nixfmt](https://github.com/NixOS/nixpkgs/pull/299763) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 months ago)
 - [Avoid 400 - Too big request header when cookie is defined](https://github.com/Joxit/docker-registry-ui/pull/356) on [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) (7 months ago)
 - [add support for ipFamilyPolicy (Dual Stack possibility)](https://github.com/qumine/charts/pull/12) on [qumine/charts](https://github.com/qumine/charts) (7 months ago)
-- [nixos-rebuild: Fetch Flake&#39;s default configurationName (Hostname) from targetHost](https://github.com/NixOS/nixpkgs/pull/283634) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (7 months ago)
+- [nixos-rebuild: Fetch Flake&#39;s default configurationName (Hostname) from targetHost](https://github.com/NixOS/nixpkgs/pull/283634) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (8 months ago)
 - [NixOS-Rebuild Automatic Hostname detection even when TargetHost](https://github.com/NixOS/nixpkgs/pull/281912) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (8 months ago)
 - [HomePage uses Params.urlFunc &#43; Based on HomePage relLink](https://github.com/luizdepra/hugo-coder/pull/872) on [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) (9 months ago)
 
