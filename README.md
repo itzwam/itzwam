@@ -42,7 +42,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### ⭐ Recent Stars
 
-- [puckipedia/tarnix](https://github.com/puckipedia/tarnix) - Who needs NAR files anyways? (6 days ago)
+- [puckipedia/tarnix](https://github.com/puckipedia/tarnix) - Who needs NAR files anyways? (1 week ago)
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ (3 months ago)
 - [nicolasbernard/kubepkgs](https://github.com/nicolasbernard/kubepkgs) - OCI &amp; Manifests collection (5 months ago)
 - [xddxdd/route-chain](https://github.com/xddxdd/route-chain) - A small app to generate a long path in traceroute. (5 months ago)
