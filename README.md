@@ -29,8 +29,8 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [[PATCH] module/KeepAlived: Support pkg override without overlaying](https://github.com/NixOS/nixpkgs/pull/346462) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
-- [Flake-Less compatibility](https://github.com/AshleyYakeley/NixVirt/pull/59) on [AshleyYakeley/NixVirt](https://github.com/AshleyYakeley/NixVirt) (2 weeks ago)
+- [[PATCH] module/KeepAlived: Support pkg override without overlaying](https://github.com/NixOS/nixpkgs/pull/346462) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
+- [Flake-Less compatibility](https://github.com/AshleyYakeley/NixVirt/pull/59) on [AshleyYakeley/NixVirt](https://github.com/AshleyYakeley/NixVirt) (3 weeks ago)
 - [[PATCH] modules/openvpn: configs supports customArguments](https://github.com/NixOS/nixpkgs/pull/329265) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
 - [Rewrite for modules usage](https://github.com/KittenConnect/nixconfigs/pull/1) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 months ago)
 - [ferm: Fix import-ferm error importing ferm wrapped script](https://github.com/NixOS/nixpkgs/pull/310626) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 months ago)
