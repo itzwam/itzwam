@@ -29,10 +29,10 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [[PATCH] module/KeepAlived: Support pkg override without overlaying](https://github.com/NixOS/nixpkgs/pull/346462) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 weeks ago)
+- [[PATCH] module/KeepAlived: Support pkg override without overlaying](https://github.com/NixOS/nixpkgs/pull/346462) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
 - [Flake-Less compatibility](https://github.com/AshleyYakeley/NixVirt/pull/59) on [AshleyYakeley/NixVirt](https://github.com/AshleyYakeley/NixVirt) (1 month ago)
 - [[PATCH] modules/openvpn: configs supports customArguments](https://github.com/NixOS/nixpkgs/pull/329265) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 months ago)
-- [Rewrite for modules usage](https://github.com/KittenConnect/nixconfigs/pull/1) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 months ago)
+- [Rewrite for modules usage](https://github.com/KittenConnect/nixconfigs/pull/1) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 months ago)
 - [ferm: Fix import-ferm error importing ferm wrapped script](https://github.com/NixOS/nixpkgs/pull/310626) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 months ago)
 - [chrony: Add support for individual options per server &#43; nixfmt](https://github.com/NixOS/nixpkgs/pull/299763) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (7 months ago)
 - [Avoid 400 - Too big request header when cookie is defined](https://github.com/Joxit/docker-registry-ui/pull/356) on [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) (8 months ago)
@@ -42,7 +42,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### ⭐ Recent Stars
 
-- [puckipedia/tarnix](https://github.com/puckipedia/tarnix) - Who needs NAR files anyways? (3 weeks ago)
+- [puckipedia/tarnix](https://github.com/puckipedia/tarnix) - Who needs NAR files anyways? (4 weeks ago)
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ (4 months ago)
 - [nicolasbernard/kubepkgs](https://github.com/nicolasbernard/kubepkgs) - OCI &amp; Manifests collection (5 months ago)
 - [xddxdd/route-chain](https://github.com/xddxdd/route-chain) - A small app to generate a long path in traceroute. (6 months ago)
