@@ -52,7 +52,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets (7 months ago)
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer (7 months ago)
 - [devtron-labs/silver-surfer](https://github.com/devtron-labs/silver-surfer) - Kubernetes objects api-version compatibility checker and provides migration path for K8s objects and prepare it for cluster upgrades (9 months ago)
-- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (10 months ago)
+- [voxpupuli/puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB (11 months ago)
 
 #### 🕶️ Some uselessfull stats
 
