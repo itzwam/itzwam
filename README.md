@@ -13,7 +13,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 👷 Check out what I'm currently working on
 
-- [KittenConnect/caddy-tlsexpr-plugin](https://github.com/KittenConnect/caddy-tlsexpr-plugin) - CAddy2 Plugin allowing usage of expr in auto_tls permission (4 weeks ago)
+- [KittenConnect/caddy-tlsexpr-plugin](https://github.com/KittenConnect/caddy-tlsexpr-plugin) - CAddy2 Plugin allowing usage of expr in auto_tls permission (1 month ago)
 - [KittenConnect/rh-api](https://github.com/KittenConnect/rh-api) -  (3 months ago)
 - [KittenConnect/nixos-onboarderOS](https://github.com/KittenConnect/nixos-onboarderOS) - NixOS LiveISO responsible of first integration to our infrastructure (5 months ago)
 - [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - Big pile of shit containg a bunch of Nix-Related stuff (5 months ago)
@@ -25,12 +25,12 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔭 Latest releases I've contributed to
 
-- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) ([2.5.7](https://github.com/Joxit/docker-registry-ui/releases/tag/2.5.7), 9 months ago) - The simplest and most complete UI for your private registry
+- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) ([2.5.7](https://github.com/Joxit/docker-registry-ui/releases/tag/2.5.7), 10 months ago) - The simplest and most complete UI for your private registry
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) ([v1.1](https://github.com/luizdepra/hugo-coder/releases/tag/v1.1), 3 years ago) - A minimalist blog theme for hugo.
 
 #### 🔨 My recent Pull Requests
 
-- [Initial Commit](https://github.com/KittenConnect/caddy-tlsexpr-plugin/pull/1) on [KittenConnect/caddy-tlsexpr-plugin](https://github.com/KittenConnect/caddy-tlsexpr-plugin) (4 weeks ago)
+- [Initial Commit](https://github.com/KittenConnect/caddy-tlsexpr-plugin/pull/1) on [KittenConnect/caddy-tlsexpr-plugin](https://github.com/KittenConnect/caddy-tlsexpr-plugin) (1 month ago)
 - [[PATCH] module/KeepAlived: Support pkg override without overlaying](https://github.com/NixOS/nixpkgs/pull/346462) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
 - [Flake-Less compatibility](https://github.com/AshleyYakeley/NixVirt/pull/59) on [AshleyYakeley/NixVirt](https://github.com/AshleyYakeley/NixVirt) (2 months ago)
 - [modules/openvpn: configs supports customArguments](https://github.com/NixOS/nixpkgs/pull/329265) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 months ago)
