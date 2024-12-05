@@ -19,7 +19,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - Big pile of shit containg a bunch of Nix-Related stuff (5 months ago)
 - [KittenConnect/lix-bsd-port](https://github.com/KittenConnect/lix-bsd-port) - usr/ports/sysutil/lix (Like Nix) (6 months ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (6 months ago)
-- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry (8 months ago)
+- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry (9 months ago)
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo. (9 months ago)
 - [KittenConnect/.github](https://github.com/KittenConnect/.github) -  (11 months ago)
 
@@ -43,7 +43,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### ⭐ Recent Stars
 
-- [puckipedia/tarnix](https://github.com/puckipedia/tarnix) - Who needs NAR files anyways? (1 month ago)
+- [puckipedia/tarnix](https://github.com/puckipedia/tarnix) - Who needs NAR files anyways? (2 months ago)
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ (5 months ago)
 - [nicolasbernard/kubepkgs](https://github.com/nicolasbernard/kubepkgs) - OCI &amp; Manifests collection (6 months ago)
 - [xddxdd/route-chain](https://github.com/xddxdd/route-chain) - A small app to generate a long path in traceroute. (7 months ago)
