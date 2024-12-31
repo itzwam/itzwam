@@ -29,12 +29,12 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [nixel: 4.1.0 -&gt; 5.1.1 &#43; Add Update Script](https://github.com/NixOS/nixpkgs/pull/369124) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
-- [Feat/new](https://github.com/KittenConnect/nixconfigs/pull/3) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
-- [Feat/one per file](https://github.com/KittenConnect/nixconfigs/pull/2) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
-- [ nixos/g810-led: support earlySetup in initrd](https://github.com/NixOS/nixpkgs/pull/368849) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
-- [nixos/g810-led: support earlySetup in initrd](https://github.com/fabaff/nixpkgs/pull/3) on [fabaff/nixpkgs](https://github.com/fabaff/nixpkgs) (2 days ago)
-- [Update nushell_map_functional.md - Add Nix equivalents](https://github.com/nushell/nushell.github.io/pull/1711) on [nushell/nushell.github.io](https://github.com/nushell/nushell.github.io) (3 days ago)
+- [nixel: 4.1.0 -&gt; 5.1.1 &#43; Add Update Script](https://github.com/NixOS/nixpkgs/pull/369124) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
+- [Feat/new](https://github.com/KittenConnect/nixconfigs/pull/3) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
+- [Feat/one per file](https://github.com/KittenConnect/nixconfigs/pull/2) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
+- [ nixos/g810-led: support earlySetup in initrd](https://github.com/NixOS/nixpkgs/pull/368849) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
+- [nixos/g810-led: support earlySetup in initrd](https://github.com/fabaff/nixpkgs/pull/3) on [fabaff/nixpkgs](https://github.com/fabaff/nixpkgs) (3 days ago)
+- [Update nushell_map_functional.md - Add Nix equivalents](https://github.com/nushell/nushell.github.io/pull/1711) on [nushell/nushell.github.io](https://github.com/nushell/nushell.github.io) (4 days ago)
 - [Initial Commit](https://github.com/KittenConnect/caddy-tlsexpr-plugin/pull/1) on [KittenConnect/caddy-tlsexpr-plugin](https://github.com/KittenConnect/caddy-tlsexpr-plugin) (1 month ago)
 - [[PATCH] module/KeepAlived: Support pkg override without overlaying](https://github.com/NixOS/nixpkgs/pull/346462) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 months ago)
 - [Flake-Less compatibility](https://github.com/AshleyYakeley/NixVirt/pull/59) on [AshleyYakeley/NixVirt](https://github.com/AshleyYakeley/NixVirt) (3 months ago)
