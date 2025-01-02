@@ -29,6 +29,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [Fix activationScript enrollKeys option](https://github.com/nix-community/lanzaboote/pull/422) on [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) (today)
 - [nixel: 4.1.0 -&gt; 5.1.1 &#43; Add Update Script](https://github.com/NixOS/nixpkgs/pull/369124) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 days ago)
 - [Feat/new](https://github.com/KittenConnect/nixconfigs/pull/3) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (5 days ago)
 - [Feat/one per file](https://github.com/KittenConnect/nixconfigs/pull/2) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (5 days ago)
@@ -38,7 +39,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [Initial Commit](https://github.com/KittenConnect/caddy-tlsexpr-plugin/pull/1) on [KittenConnect/caddy-tlsexpr-plugin](https://github.com/KittenConnect/caddy-tlsexpr-plugin) (1 month ago)
 - [nixos/keepalived: add package option](https://github.com/NixOS/nixpkgs/pull/346462) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 months ago)
 - [Flake-Less compatibility](https://github.com/AshleyYakeley/NixVirt/pull/59) on [AshleyYakeley/NixVirt](https://github.com/AshleyYakeley/NixVirt) (3 months ago)
-- [modules/openvpn: configs supports customArguments](https://github.com/NixOS/nixpkgs/pull/329265) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 months ago)
 
 #### ⭐ Recent Stars
 
