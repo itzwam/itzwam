@@ -13,13 +13,13 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 👷 Check out what I'm currently working on
 
-- [KittenConnect/caddy-tlsexpr-plugin](https://github.com/KittenConnect/caddy-tlsexpr-plugin) - CAddy2 Plugin allowing usage of expr in auto_tls permission (3 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 days ago)
+- [KittenConnect/caddy-tlsexpr-plugin](https://github.com/KittenConnect/caddy-tlsexpr-plugin) - CAddy2 Plugin allowing usage of expr in auto_tls permission (4 days ago)
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (4 days ago)
 - [KittenConnect/rh-api](https://github.com/KittenConnect/rh-api) -  (4 months ago)
 - [KittenConnect/nixos-onboarderOS](https://github.com/KittenConnect/nixos-onboarderOS) - NixOS LiveISO responsible of first integration to our infrastructure (6 months ago)
 - [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - Big pile of shit containg a bunch of Nix-Related stuff (6 months ago)
 - [KittenConnect/lix-bsd-port](https://github.com/KittenConnect/lix-bsd-port) - usr/ports/sysutil/lix (Like Nix) (7 months ago)
-- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry (9 months ago)
+- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry (10 months ago)
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo. (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -29,12 +29,12 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [Fix activationScript enrollKeys option](https://github.com/nix-community/lanzaboote/pull/422) on [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) (1 day ago)
-- [nixel: 4.1.0 -&gt; 5.1.1 &#43; Add Update Script](https://github.com/NixOS/nixpkgs/pull/369124) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
-- [Feat/new](https://github.com/KittenConnect/nixconfigs/pull/3) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (6 days ago)
-- [Feat/one per file](https://github.com/KittenConnect/nixconfigs/pull/2) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (6 days ago)
-- [ nixos/g810-led: support earlySetup in initrd](https://github.com/NixOS/nixpkgs/pull/368849) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
-- [nixos/g810-led: support earlySetup in initrd](https://github.com/fabaff/nixpkgs/pull/3) on [fabaff/nixpkgs](https://github.com/fabaff/nixpkgs) (6 days ago)
+- [Fix activationScript enrollKeys option](https://github.com/nix-community/lanzaboote/pull/422) on [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) (2 days ago)
+- [nixel: 4.1.0 -&gt; 5.1.1 &#43; Add Update Script](https://github.com/NixOS/nixpkgs/pull/369124) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
+- [Feat/new](https://github.com/KittenConnect/nixconfigs/pull/3) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 week ago)
+- [Feat/one per file](https://github.com/KittenConnect/nixconfigs/pull/2) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 week ago)
+- [ nixos/g810-led: support earlySetup in initrd](https://github.com/NixOS/nixpkgs/pull/368849) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
+- [nixos/g810-led: support earlySetup in initrd](https://github.com/fabaff/nixpkgs/pull/3) on [fabaff/nixpkgs](https://github.com/fabaff/nixpkgs) (1 week ago)
 - [Update nushell_map_functional.md - Add Nix equivalents](https://github.com/nushell/nushell.github.io/pull/1711) on [nushell/nushell.github.io](https://github.com/nushell/nushell.github.io) (1 week ago)
 - [Initial Commit](https://github.com/KittenConnect/caddy-tlsexpr-plugin/pull/1) on [KittenConnect/caddy-tlsexpr-plugin](https://github.com/KittenConnect/caddy-tlsexpr-plugin) (2 months ago)
 - [nixos/keepalived: add package option](https://github.com/NixOS/nixpkgs/pull/346462) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 months ago)
@@ -42,8 +42,8 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### ⭐ Recent Stars
 
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so... (3 weeks ago)
-- [puckipedia/tarnix](https://github.com/puckipedia/tarnix) - Who needs NAR files anyways? (2 months ago)
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so... (4 weeks ago)
+- [puckipedia/tarnix](https://github.com/puckipedia/tarnix) - Who needs NAR files anyways? (3 months ago)
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ (6 months ago)
 - [nicolasbernard/kubepkgs](https://github.com/nicolasbernard/kubepkgs) - OCI &amp; Manifests collection (7 months ago)
 - [xddxdd/route-chain](https://github.com/xddxdd/route-chain) - A small app to generate a long path in traceroute. (8 months ago)
