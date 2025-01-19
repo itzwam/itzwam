@@ -30,7 +30,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 #### 🔨 My recent Pull Requests
 
 - [Fix activationScript enrollKeys option](https://github.com/nix-community/lanzaboote/pull/422) on [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) (2 weeks ago)
-- [nixel: 4.1.0 -&gt; 5.1.1 &#43; Add Update Script](https://github.com/NixOS/nixpkgs/pull/369124) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
+- [nixel: 4.1.0 -&gt; 5.1.1 &#43; Add Update Script](https://github.com/NixOS/nixpkgs/pull/369124) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 weeks ago)
 - [Feat/new](https://github.com/KittenConnect/nixconfigs/pull/3) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 weeks ago)
 - [Feat/one per file](https://github.com/KittenConnect/nixconfigs/pull/2) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 weeks ago)
 - [ nixos/g810-led: support earlySetup in initrd](https://github.com/NixOS/nixpkgs/pull/368849) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 weeks ago)
