@@ -24,7 +24,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔭 Latest releases I've contributed to
 
-- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) ([2.5.7](https://github.com/Joxit/docker-registry-ui/releases/tag/2.5.7), 11 months ago) - The simplest and most complete UI for your private registry
+- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) ([2.5.7](https://github.com/Joxit/docker-registry-ui/releases/tag/2.5.7), 1 year ago) - The simplest and most complete UI for your private registry
 - [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) ([v1.1](https://github.com/luizdepra/hugo-coder/releases/tag/v1.1), 3 years ago) - A minimalist blog theme for hugo.
 
 #### 🔨 My recent Pull Requests
@@ -36,7 +36,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [ nixos/g810-led: support earlySetup in initrd](https://github.com/NixOS/nixpkgs/pull/368849) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 month ago)
 - [nixos/g810-led: support earlySetup in initrd](https://github.com/fabaff/nixpkgs/pull/3) on [fabaff/nixpkgs](https://github.com/fabaff/nixpkgs) (1 month ago)
 - [Update nushell_map_functional.md - Add Nix equivalents](https://github.com/nushell/nushell.github.io/pull/1711) on [nushell/nushell.github.io](https://github.com/nushell/nushell.github.io) (1 month ago)
-- [Initial Commit](https://github.com/KittenConnect/caddy-tlsexpr-plugin/pull/1) on [KittenConnect/caddy-tlsexpr-plugin](https://github.com/KittenConnect/caddy-tlsexpr-plugin) (2 months ago)
+- [Initial Commit](https://github.com/KittenConnect/caddy-tlsexpr-plugin/pull/1) on [KittenConnect/caddy-tlsexpr-plugin](https://github.com/KittenConnect/caddy-tlsexpr-plugin) (3 months ago)
 - [nixos/keepalived: add package option](https://github.com/NixOS/nixpkgs/pull/346462) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 months ago)
 - [Flake-Less compatibility](https://github.com/AshleyYakeley/NixVirt/pull/59) on [AshleyYakeley/NixVirt](https://github.com/AshleyYakeley/NixVirt) (4 months ago)
 
