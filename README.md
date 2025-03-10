@@ -23,7 +23,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔭 Latest releases I've contributed to
 
-- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) ([2.5.7](https://github.com/Joxit/docker-registry-ui/releases/tag/2.5.7), 1 year ago) - The simplest and most complete UI for your private registry
 
 #### 🔨 My recent Pull Requests
 
