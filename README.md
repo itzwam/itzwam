@@ -18,7 +18,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (3 months ago)
 - [KittenConnect/rh-api](https://github.com/KittenConnect/rh-api) -  (8 months ago)
 - [KittenConnect/nixos-onboarderOS](https://github.com/KittenConnect/nixos-onboarderOS) - NixOS LiveISO responsible of first integration to our infrastructure (9 months ago)
-- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - Big pile of shit containg a bunch of Nix-Related stuff (9 months ago)
+- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - Big pile of shit containg a bunch of Nix-Related stuff (10 months ago)
 - [KittenConnect/lix-bsd-port](https://github.com/KittenConnect/lix-bsd-port) - usr/ports/sysutil/lix (Like Nix) (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -41,7 +41,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - ur wallpaper is red... or is it blue?... doesnt matter, the shell will look cool (4 months ago)
 - [puckipedia/tarnix](https://github.com/puckipedia/tarnix) - Who needs NAR files anyways? (6 months ago)
-- [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ (9 months ago)
+- [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ (10 months ago)
 - [nicolasbernard/kubepkgs](https://github.com/nicolasbernard/kubepkgs) - OCI &amp; Manifests collection (11 months ago)
 - [xddxdd/route-chain](https://github.com/xddxdd/route-chain) - A small app to generate a long path in traceroute. (11 months ago)
 - [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system (11 months ago)
