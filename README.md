@@ -19,7 +19,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [KittenConnect/rh-api](https://github.com/KittenConnect/rh-api) -  (8 months ago)
 - [KittenConnect/nixos-onboarderOS](https://github.com/KittenConnect/nixos-onboarderOS) - NixOS LiveISO responsible of first integration to our infrastructure (9 months ago)
 - [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - Big pile of shit containg a bunch of Nix-Related stuff (10 months ago)
-- [KittenConnect/lix-bsd-port](https://github.com/KittenConnect/lix-bsd-port) - usr/ports/sysutil/lix (Like Nix) (10 months ago)
+- [KittenConnect/lix-bsd-port](https://github.com/KittenConnect/lix-bsd-port) - usr/ports/sysutil/lix (Like Nix) (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
