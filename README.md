@@ -26,7 +26,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [support extraInstallCommands like grub/systemd-boot loader modules](https://github.com/nix-community/lanzaboote/pull/453) on [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) (today)
+- [support extraInstallCommands like grub/systemd-boot loader modules](https://github.com/nix-community/lanzaboote/pull/453) on [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) (1 day ago)
 - [WIP: systemd-tty-ask-password-agent: add --query=PID](https://github.com/systemd/systemd/pull/36871) on [systemd/systemd](https://github.com/systemd/systemd) (1 month ago)
 - [Fix activationScript enrollKeys option](https://github.com/nix-community/lanzaboote/pull/422) on [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) (4 months ago)
 - [nixel: 4.1.0 -&gt; 5.1.1 &#43; Add Update Script](https://github.com/NixOS/nixpkgs/pull/369124) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 months ago)
@@ -35,7 +35,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [ nixos/g810-led: support earlySetup in initrd](https://github.com/NixOS/nixpkgs/pull/368849) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 months ago)
 - [nixos/g810-led: support earlySetup in initrd](https://github.com/fabaff/nixpkgs/pull/3) on [fabaff/nixpkgs](https://github.com/fabaff/nixpkgs) (4 months ago)
 - [Update nushell_map_functional.md - Add Nix equivalents](https://github.com/nushell/nushell.github.io/pull/1711) on [nushell/nushell.github.io](https://github.com/nushell/nushell.github.io) (4 months ago)
-- [Initial Commit](https://github.com/KittenConnect/caddy-tlsexpr-plugin/pull/1) on [KittenConnect/caddy-tlsexpr-plugin](https://github.com/KittenConnect/caddy-tlsexpr-plugin) (5 months ago)
+- [Initial Commit](https://github.com/KittenConnect/caddy-tlsexpr-plugin/pull/1) on [KittenConnect/caddy-tlsexpr-plugin](https://github.com/KittenConnect/caddy-tlsexpr-plugin) (6 months ago)
 
 #### ⭐ Recent Stars
 
