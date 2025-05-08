@@ -26,6 +26,8 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [Feat/cache](https://github.com/KittenConnect/nixconfigs/pull/8) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
+- [fix/workflows: Github Page Token permissions](https://github.com/KittenConnect/nixconfigs/pull/7) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [Feat/cicd](https://github.com/KittenConnect/nixconfigs/pull/6) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [merge2history: flakes x clean](https://github.com/KittenConnect/nixconfigs/pull/5) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [support extraInstallCommands like grub/systemd-boot loader modules](https://github.com/nix-community/lanzaboote/pull/453) on [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) (6 days ago)
@@ -34,8 +36,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [nixel: 4.1.0 -&gt; 5.1.1 &#43; Add Update Script](https://github.com/NixOS/nixpkgs/pull/369124) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 months ago)
 - [Feat/new](https://github.com/KittenConnect/nixconfigs/pull/3) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 months ago)
 - [Feat/one per file](https://github.com/KittenConnect/nixconfigs/pull/2) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 months ago)
-- [ nixos/g810-led: support earlySetup in initrd](https://github.com/NixOS/nixpkgs/pull/368849) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 months ago)
-- [nixos/g810-led: support earlySetup in initrd](https://github.com/fabaff/nixpkgs/pull/3) on [fabaff/nixpkgs](https://github.com/fabaff/nixpkgs) (4 months ago)
 
 #### ⭐ Recent Stars
 
