@@ -15,6 +15,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 - [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - Big pile of shit containg a bunch of Nix-Related stuff (today)
 - [KittenConnect/.github](https://github.com/KittenConnect/.github) -  (1 month ago)
+- [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur] (4 months ago)
 - [KittenConnect/caddy-tlsexpr-plugin](https://github.com/KittenConnect/caddy-tlsexpr-plugin) - CAddy2 Plugin allowing usage of expr in auto_tls permission (4 months ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (4 months ago)
 - [KittenConnect/rh-api](https://github.com/KittenConnect/rh-api) -  (9 months ago)
@@ -23,6 +24,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔭 Latest releases I've contributed to
 
+- [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) ([v0.4.2](https://github.com/nix-community/lanzaboote/releases/tag/v0.4.2), 3 months ago) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 
 #### 🔨 My recent Pull Requests
 
