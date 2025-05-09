@@ -13,7 +13,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 👷 Check out what I'm currently working on
 
-- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - Big pile of shit containg a bunch of Nix-Related stuff (today)
+- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - Big pile of shit containg a bunch of Nix-Related stuff (1 day ago)
 - [KittenConnect/.github](https://github.com/KittenConnect/.github) -  (1 month ago)
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur] (4 months ago)
 - [KittenConnect/caddy-tlsexpr-plugin](https://github.com/KittenConnect/caddy-tlsexpr-plugin) - CAddy2 Plugin allowing usage of expr in auto_tls permission (4 months ago)
@@ -28,11 +28,11 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [Feat/cache](https://github.com/KittenConnect/nixconfigs/pull/8) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [fix/workflows: Github Page Token permissions](https://github.com/KittenConnect/nixconfigs/pull/7) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [Feat/cicd](https://github.com/KittenConnect/nixconfigs/pull/6) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [merge2history: flakes x clean](https://github.com/KittenConnect/nixconfigs/pull/5) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [support extraInstallCommands like grub/systemd-boot loader modules](https://github.com/nix-community/lanzaboote/pull/453) on [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) (6 days ago)
+- [Feat/cache](https://github.com/KittenConnect/nixconfigs/pull/8) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [fix/workflows: Github Page Token permissions](https://github.com/KittenConnect/nixconfigs/pull/7) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [Feat/cicd](https://github.com/KittenConnect/nixconfigs/pull/6) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [merge2history: flakes x clean](https://github.com/KittenConnect/nixconfigs/pull/5) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [support extraInstallCommands like grub/systemd-boot loader modules](https://github.com/nix-community/lanzaboote/pull/453) on [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) (1 week ago)
 - [WIP: systemd-tty-ask-password-agent: add --from-pid=PID](https://github.com/systemd/systemd/pull/36871) on [systemd/systemd](https://github.com/systemd/systemd) (1 month ago)
 - [Fix activationScript enrollKeys option](https://github.com/nix-community/lanzaboote/pull/422) on [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) (4 months ago)
 - [nixel: 4.1.0 -&gt; 5.1.1 &#43; Add Update Script](https://github.com/NixOS/nixpkgs/pull/369124) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (4 months ago)
