@@ -13,7 +13,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 👷 Check out what I'm currently working on
 
-- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (1 day ago)
+- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (2 days ago)
 - [KittenConnect/.github](https://github.com/KittenConnect/.github) -  (1 month ago)
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur] (4 months ago)
 - [KittenConnect/caddy-tlsexpr-plugin](https://github.com/KittenConnect/caddy-tlsexpr-plugin) - CAddy2 Plugin allowing usage of expr in auto_tls permission (4 months ago)
@@ -28,20 +28,20 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [fix/workflows: GHPages step fix kev/value](https://github.com/KittenConnect/nixconfigs/pull/11) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [feat/workflows: Cache outputs to Github Artifacts &#43; Expose them links on GHPages](https://github.com/KittenConnect/nixconfigs/pull/10) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
-- [no magix-cache in init -- Prepare service shutdown](https://github.com/KittenConnect/nixconfigs/pull/9) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
-- [Feat/cache](https://github.com/KittenConnect/nixconfigs/pull/8) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (5 days ago)
-- [fix/workflows: Github Page Token permissions](https://github.com/KittenConnect/nixconfigs/pull/7) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (5 days ago)
-- [Feat/cicd](https://github.com/KittenConnect/nixconfigs/pull/6) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (5 days ago)
-- [merge2history: flakes x clean](https://github.com/KittenConnect/nixconfigs/pull/5) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (6 days ago)
+- [fix/workflows: GHPages step fix kev/value](https://github.com/KittenConnect/nixconfigs/pull/11) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [feat/workflows: Cache outputs to Github Artifacts &#43; Expose them links on GHPages](https://github.com/KittenConnect/nixconfigs/pull/10) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
+- [no magix-cache in init -- Prepare service shutdown](https://github.com/KittenConnect/nixconfigs/pull/9) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
+- [Feat/cache](https://github.com/KittenConnect/nixconfigs/pull/8) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (6 days ago)
+- [fix/workflows: Github Page Token permissions](https://github.com/KittenConnect/nixconfigs/pull/7) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (6 days ago)
+- [Feat/cicd](https://github.com/KittenConnect/nixconfigs/pull/6) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (6 days ago)
+- [merge2history: flakes x clean](https://github.com/KittenConnect/nixconfigs/pull/5) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 week ago)
 - [support extraInstallCommands like grub/systemd-boot loader modules](https://github.com/nix-community/lanzaboote/pull/453) on [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) (1 week ago)
 - [systemd-tty-ask-password-agent: add --from-pid=PID](https://github.com/systemd/systemd/pull/36871) on [systemd/systemd](https://github.com/systemd/systemd) (1 month ago)
 - [Fix activationScript enrollKeys option](https://github.com/nix-community/lanzaboote/pull/422) on [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) (4 months ago)
 
 #### ⭐ Recent Stars
 
-- [ansman/git-praise](https://github.com/ansman/git-praise) - Use git-praise to find out who to thank for that magical piece of code. (today)
+- [ansman/git-praise](https://github.com/ansman/git-praise) - Use git-praise to find out who to thank for that magical piece of code. (1 day ago)
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - ur wallpaper is red... or is it blue?... doesnt matter, the shell will look cool (5 months ago)
 - [puckipedia/tarnix](https://github.com/puckipedia/tarnix) - Who needs NAR files anyways? (7 months ago)
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ (11 months ago)
