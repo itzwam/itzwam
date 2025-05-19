@@ -13,7 +13,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 👷 Check out what I'm currently working on
 
-- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (6 days ago)
+- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (1 week ago)
 - [KittenConnect/.github](https://github.com/KittenConnect/.github) -  (2 months ago)
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur] (4 months ago)
 - [KittenConnect/caddy-tlsexpr-plugin](https://github.com/KittenConnect/caddy-tlsexpr-plugin) - CAddy2 Plugin allowing usage of expr in auto_tls permission (4 months ago)
@@ -28,7 +28,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [fix/workflows: GHPages step fix kev/value](https://github.com/KittenConnect/nixconfigs/pull/11) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (6 days ago)
+- [fix/workflows: GHPages step fix kev/value](https://github.com/KittenConnect/nixconfigs/pull/11) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 week ago)
 - [feat/workflows: Cache outputs to Github Artifacts &#43; Expose them links on GHPages](https://github.com/KittenConnect/nixconfigs/pull/10) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 week ago)
 - [no magix-cache in init -- Prepare service shutdown](https://github.com/KittenConnect/nixconfigs/pull/9) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 week ago)
 - [Feat/cache](https://github.com/KittenConnect/nixconfigs/pull/8) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 week ago)
@@ -41,7 +41,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### ⭐ Recent Stars
 
-- [ansman/git-praise](https://github.com/ansman/git-praise) - Use git-praise to find out who to thank for that magical piece of code. (5 days ago)
+- [ansman/git-praise](https://github.com/ansman/git-praise) - Use git-praise to find out who to thank for that magical piece of code. (6 days ago)
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - ur wallpaper is red... or is it blue?... doesnt matter, the shell will look cool (5 months ago)
 - [puckipedia/tarnix](https://github.com/puckipedia/tarnix) - Who needs NAR files anyways? (7 months ago)
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ (11 months ago)
