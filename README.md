@@ -18,7 +18,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur] (6 months ago)
 - [KittenConnect/caddy-tlsexpr-plugin](https://github.com/KittenConnect/caddy-tlsexpr-plugin) - CAddy2 Plugin allowing usage of expr in auto_tls permission (6 months ago)
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (6 months ago)
-- [KittenConnect/rh-api](https://github.com/KittenConnect/rh-api) -  (10 months ago)
+- [KittenConnect/rh-api](https://github.com/KittenConnect/rh-api) -  (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -33,7 +33,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [Feat/cache](https://github.com/KittenConnect/nixconfigs/pull/8) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 month ago)
 - [fix/workflows: Github Page Token permissions](https://github.com/KittenConnect/nixconfigs/pull/7) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 month ago)
 - [Feat/cicd](https://github.com/KittenConnect/nixconfigs/pull/6) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 month ago)
-- [merge2history: flakes x clean](https://github.com/KittenConnect/nixconfigs/pull/5) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 month ago)
+- [merge2history: flakes x clean](https://github.com/KittenConnect/nixconfigs/pull/5) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 months ago)
 - [support extraInstallCommands like grub/systemd-boot loader modules](https://github.com/nix-community/lanzaboote/pull/453) on [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) (2 months ago)
 - [systemd-tty-ask-password-agent: add --from-pid=PID](https://github.com/systemd/systemd/pull/36871) on [systemd/systemd](https://github.com/systemd/systemd) (3 months ago)
 
