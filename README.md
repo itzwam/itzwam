@@ -22,7 +22,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔭 Latest releases I've contributed to
 
-- [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) ([v0.4.2](https://github.com/nix-community/lanzaboote/releases/tag/v0.4.2), 5 months ago) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
+- [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) ([v0.4.2](https://github.com/nix-community/lanzaboote/releases/tag/v0.4.2), 6 months ago) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 
 #### 🔨 My recent Pull Requests
 
