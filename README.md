@@ -27,8 +27,8 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 - [generic default entrypoint #3](https://github.com/KittenConnect/nixconfigs/pull/14) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 months ago)
 - [fix/workflows: GHPages step fix kev/value](https://github.com/KittenConnect/nixconfigs/pull/11) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 months ago)
-- [feat/workflows: Cache outputs to Github Artifacts &#43; Expose them links on GHPages](https://github.com/KittenConnect/nixconfigs/pull/10) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 months ago)
-- [no magix-cache in init -- Prepare service shutdown](https://github.com/KittenConnect/nixconfigs/pull/9) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 months ago)
+- [feat/workflows: Cache outputs to Github Artifacts &#43; Expose them links on GHPages](https://github.com/KittenConnect/nixconfigs/pull/10) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 months ago)
+- [no magix-cache in init -- Prepare service shutdown](https://github.com/KittenConnect/nixconfigs/pull/9) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 months ago)
 - [Feat/cache](https://github.com/KittenConnect/nixconfigs/pull/8) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 months ago)
 - [fix/workflows: Github Page Token permissions](https://github.com/KittenConnect/nixconfigs/pull/7) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 months ago)
 - [Feat/cicd](https://github.com/KittenConnect/nixconfigs/pull/6) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 months ago)
