@@ -13,7 +13,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 👷 Check out what I'm currently working on
 
-- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (5 months ago)
+- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (6 months ago)
 - [KittenConnect/.github](https://github.com/KittenConnect/.github) -  (7 months ago)
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur] (10 months ago)
 - [KittenConnect/caddy-tlsexpr-plugin](https://github.com/KittenConnect/caddy-tlsexpr-plugin) - CAddy2 Plugin allowing usage of expr in auto_tls permission (10 months ago)
@@ -21,12 +21,12 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔭 Latest releases I've contributed to
 
-- [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) ([v0.4.3](https://github.com/nix-community/lanzaboote/releases/tag/v0.4.3), 4 days ago) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
+- [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) ([v0.4.3](https://github.com/nix-community/lanzaboote/releases/tag/v0.4.3), 5 days ago) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 
 #### 🔨 My recent Pull Requests
 
 - [generic default entrypoint #3](https://github.com/KittenConnect/nixconfigs/pull/14) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (5 months ago)
-- [fix/workflows: GHPages step fix kev/value](https://github.com/KittenConnect/nixconfigs/pull/11) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (5 months ago)
+- [fix/workflows: GHPages step fix kev/value](https://github.com/KittenConnect/nixconfigs/pull/11) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (6 months ago)
 - [feat/workflows: Cache outputs to Github Artifacts &#43; Expose them links on GHPages](https://github.com/KittenConnect/nixconfigs/pull/10) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (6 months ago)
 - [no magix-cache in init -- Prepare service shutdown](https://github.com/KittenConnect/nixconfigs/pull/9) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (6 months ago)
 - [Feat/cache](https://github.com/KittenConnect/nixconfigs/pull/8) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (6 months ago)
