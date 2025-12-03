@@ -21,7 +21,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔭 Latest releases I've contributed to
 
-- [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) ([v0.4.3](https://github.com/nix-community/lanzaboote/releases/tag/v0.4.3), 4 weeks ago) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
+- [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) ([v0.4.3](https://github.com/nix-community/lanzaboote/releases/tag/v0.4.3), 1 month ago) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 
 #### 🔨 My recent Pull Requests
 
@@ -32,7 +32,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [Feat/cache](https://github.com/KittenConnect/nixconfigs/pull/8) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (6 months ago)
 - [fix/workflows: Github Page Token permissions](https://github.com/KittenConnect/nixconfigs/pull/7) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (6 months ago)
 - [Feat/cicd](https://github.com/KittenConnect/nixconfigs/pull/6) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (6 months ago)
-- [merge2history: flakes x clean](https://github.com/KittenConnect/nixconfigs/pull/5) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (6 months ago)
+- [merge2history: flakes x clean](https://github.com/KittenConnect/nixconfigs/pull/5) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (7 months ago)
 - [support extraInstallCommands like grub/systemd-boot loader modules](https://github.com/nix-community/lanzaboote/pull/453) on [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) (7 months ago)
 - [systemd-tty-ask-password-agent: add --from-pid=PID](https://github.com/systemd/systemd/pull/36871) on [systemd/systemd](https://github.com/systemd/systemd) (8 months ago)
 
