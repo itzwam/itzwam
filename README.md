@@ -14,7 +14,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 #### 👷 Check out what I'm currently working on
 
 - [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (8 months ago)
-- [KittenConnect/.github](https://github.com/KittenConnect/.github) -  (9 months ago)
+- [KittenConnect/.github](https://github.com/KittenConnect/.github) -  (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
