@@ -21,12 +21,12 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [feat: PR Title: Add Plymouth notifier via D-Bus / CLI fallback (for Boot-Time notifications)](https://github.com/max-baz/yubikey-touch-detector/pull/76) on [max-baz/yubikey-touch-detector](https://github.com/max-baz/yubikey-touch-detector) (5 days ago)
+- [feat: PR Title: Add Plymouth notifier via D-Bus / CLI fallback (for Boot-Time notifications)](https://github.com/max-baz/yubikey-touch-detector/pull/76) on [max-baz/yubikey-touch-detector](https://github.com/max-baz/yubikey-touch-detector) (6 days ago)
 - [feat: why-depends exits != 0 when not depending on specified derivation](https://github.com/NixOS/nix/pull/15081) on [NixOS/nix](https://github.com/NixOS/nix) (1 month ago)
 - [generic default entrypoint #3](https://github.com/KittenConnect/nixconfigs/pull/14) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (9 months ago)
 - [fix/workflows: GHPages step fix kev/value](https://github.com/KittenConnect/nixconfigs/pull/11) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (9 months ago)
-- [feat/workflows: Cache outputs to Github Artifacts &#43; Expose them links on GHPages](https://github.com/KittenConnect/nixconfigs/pull/10) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (9 months ago)
-- [no magix-cache in init -- Prepare service shutdown](https://github.com/KittenConnect/nixconfigs/pull/9) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (9 months ago)
+- [feat/workflows: Cache outputs to Github Artifacts &#43; Expose them links on GHPages](https://github.com/KittenConnect/nixconfigs/pull/10) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (10 months ago)
+- [no magix-cache in init -- Prepare service shutdown](https://github.com/KittenConnect/nixconfigs/pull/9) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (10 months ago)
 - [Feat/cache](https://github.com/KittenConnect/nixconfigs/pull/8) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (10 months ago)
 - [fix/workflows: Github Page Token permissions](https://github.com/KittenConnect/nixconfigs/pull/7) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (10 months ago)
 - [Feat/cicd](https://github.com/KittenConnect/nixconfigs/pull/6) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (10 months ago)
@@ -34,6 +34,8 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### ⭐ Recent Stars
 
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services. (1 day ago)
+- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer] (1 day ago)
 - [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr. (3 weeks ago)
 - [ansman/git-praise](https://github.com/ansman/git-praise) - Use git-praise to find out who to thank for that magical piece of code. (9 months ago)
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles (1 year ago)
@@ -42,8 +44,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [nicolasbernard/kubepkgs](https://github.com/nicolasbernard/kubepkgs) - OCI &amp; Manifests collection (2 years ago)
 - [xddxdd/route-chain](https://github.com/xddxdd/route-chain) - A small app to generate a long path in traceroute. (2 years ago)
 - [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system (2 years ago)
-- [helloSystem/hello](https://github.com/helloSystem/hello) - Desktop system for creators with a focus on simplicity, elegance, and usability. Based on FreeBSD. Less, but better! (2 years ago)
-- [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets (2 years ago)
 
 #### 🕶️ Some uselessfull stats
 
