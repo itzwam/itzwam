@@ -21,6 +21,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [Add mount_cd9660 package for FreeBSD](https://github.com/NixOS/nixpkgs/pull/498013) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [feat: PR Title: Add Plymouth notifier via D-Bus / CLI fallback (for Boot-Time notifications)](https://github.com/max-baz/yubikey-touch-detector/pull/76) on [max-baz/yubikey-touch-detector](https://github.com/max-baz/yubikey-touch-detector) (1 week ago)
 - [feat: why-depends exits != 0 when not depending on specified derivation](https://github.com/NixOS/nix/pull/15081) on [NixOS/nix](https://github.com/NixOS/nix) (1 month ago)
 - [generic default entrypoint #3](https://github.com/KittenConnect/nixconfigs/pull/14) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (9 months ago)
@@ -30,7 +31,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [Feat/cache](https://github.com/KittenConnect/nixconfigs/pull/8) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (10 months ago)
 - [fix/workflows: Github Page Token permissions](https://github.com/KittenConnect/nixconfigs/pull/7) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (10 months ago)
 - [Feat/cicd](https://github.com/KittenConnect/nixconfigs/pull/6) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (10 months ago)
-- [merge2history: flakes x clean](https://github.com/KittenConnect/nixconfigs/pull/5) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (10 months ago)
 
 #### ⭐ Recent Stars
 
