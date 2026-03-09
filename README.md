@@ -21,6 +21,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [WIP: Feat/installer iso](https://github.com/nixos-bsd/nixbsd/pull/52) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (today)
 - [Add FreeBSD architecture options to PR template](https://github.com/NixOS/nixpkgs/pull/498038) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
 - [freebsd.mount_cd9660: init at v0](https://github.com/NixOS/nixpkgs/pull/498037) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
 - [Add mount_cd9660 package for FreeBSD](https://github.com/NixOS/nixpkgs/pull/498013) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 day ago)
@@ -30,7 +31,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [fix/workflows: GHPages step fix kev/value](https://github.com/KittenConnect/nixconfigs/pull/11) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (10 months ago)
 - [feat/workflows: Cache outputs to Github Artifacts &#43; Expose them links on GHPages](https://github.com/KittenConnect/nixconfigs/pull/10) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (10 months ago)
 - [no magix-cache in init -- Prepare service shutdown](https://github.com/KittenConnect/nixconfigs/pull/9) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (10 months ago)
-- [Feat/cache](https://github.com/KittenConnect/nixconfigs/pull/8) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (10 months ago)
 
 #### ⭐ Recent Stars
 
