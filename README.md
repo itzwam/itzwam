@@ -34,9 +34,9 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### ⭐ Recent Stars
 
-- [criteo/firmirror](https://github.com/criteo/firmirror) - LVFS at home/datacenters for your on-prem servers (1 day ago)
-- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services. (1 week ago)
-- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer] (1 week ago)
+- [criteo/firmirror](https://github.com/criteo/firmirror) - LVFS at home/datacenters for your on-prem servers (2 days ago)
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services. (2 weeks ago)
+- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer] (2 weeks ago)
 - [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr. (1 month ago)
 - [ansman/git-praise](https://github.com/ansman/git-praise) - Use git-praise to find out who to thank for that magical piece of code. (10 months ago)
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles (1 year ago)
