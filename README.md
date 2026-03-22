@@ -22,10 +22,10 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 #### 🔨 My recent Pull Requests
 
 - [WIP: Feat/installer iso](https://github.com/nixos-bsd/nixbsd/pull/52) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (1 week ago)
-- [Add FreeBSD architecture options to PR template](https://github.com/NixOS/nixpkgs/pull/498038) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
-- [freebsd.mount_cd9660: init at v0](https://github.com/NixOS/nixpkgs/pull/498037) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
-- [Add mount_cd9660 package for FreeBSD](https://github.com/NixOS/nixpkgs/pull/498013) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
-- [feat: PR Title: Add Plymouth notifier via D-Bus / CLI fallback (for Boot-Time notifications)](https://github.com/max-baz/yubikey-touch-detector/pull/76) on [max-baz/yubikey-touch-detector](https://github.com/max-baz/yubikey-touch-detector) (2 weeks ago)
+- [Add FreeBSD architecture options to PR template](https://github.com/NixOS/nixpkgs/pull/498038) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
+- [freebsd.mount_cd9660: init at v0](https://github.com/NixOS/nixpkgs/pull/498037) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
+- [Add mount_cd9660 package for FreeBSD](https://github.com/NixOS/nixpkgs/pull/498013) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
+- [feat: PR Title: Add Plymouth notifier via D-Bus / CLI fallback (for Boot-Time notifications)](https://github.com/max-baz/yubikey-touch-detector/pull/76) on [max-baz/yubikey-touch-detector](https://github.com/max-baz/yubikey-touch-detector) (3 weeks ago)
 - [feat: why-depends exits != 0 when not depending on specified derivation](https://github.com/NixOS/nix/pull/15081) on [NixOS/nix](https://github.com/NixOS/nix) (1 month ago)
 - [generic default entrypoint #3](https://github.com/KittenConnect/nixconfigs/pull/14) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (9 months ago)
 - [fix/workflows: GHPages step fix kev/value](https://github.com/KittenConnect/nixconfigs/pull/11) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (10 months ago)
@@ -34,7 +34,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### ⭐ Recent Stars
 
-- [criteo/firmirror](https://github.com/criteo/firmirror) - LVFS at home/datacenters for your on-prem servers (3 days ago)
+- [criteo/firmirror](https://github.com/criteo/firmirror) - LVFS at home/datacenters for your on-prem servers (4 days ago)
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services. (2 weeks ago)
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer] (2 weeks ago)
 - [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr. (1 month ago)
