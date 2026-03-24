@@ -20,6 +20,8 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [feat: flake-less entrypoint](https://github.com/nixos-bsd/nixbsd/pull/53) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (today)
+- [feat: flake-less entrypoint](https://github.com/nixos-bsd/mini-tmpfiles/pull/5) on [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) (today)
 - [nixos/nix-channel: fix broken newline in tmpfiles rule](https://github.com/NixOS/nixpkgs/pull/503065) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (today)
 - [feat: openssl tls.key_file pkcs11:](https://github.com/fluent/fluent-bit/pull/11611) on [fluent/fluent-bit](https://github.com/fluent/fluent-bit) (1 day ago)
 - [WIP: Feat/installer iso](https://github.com/nixos-bsd/nixbsd/pull/52) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (2 weeks ago)
@@ -28,8 +30,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [Add mount_cd9660 package for FreeBSD](https://github.com/NixOS/nixpkgs/pull/498013) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
 - [feat: PR Title: Add Plymouth notifier via D-Bus / CLI fallback (for Boot-Time notifications)](https://github.com/max-baz/yubikey-touch-detector/pull/76) on [max-baz/yubikey-touch-detector](https://github.com/max-baz/yubikey-touch-detector) (3 weeks ago)
 - [feat: why-depends exits != 0 when not depending on specified derivation](https://github.com/NixOS/nix/pull/15081) on [NixOS/nix](https://github.com/NixOS/nix) (1 month ago)
-- [generic default entrypoint #3](https://github.com/KittenConnect/nixconfigs/pull/14) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (9 months ago)
-- [fix/workflows: GHPages step fix kev/value](https://github.com/KittenConnect/nixconfigs/pull/11) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (10 months ago)
 
 #### ⭐ Recent Stars
 
