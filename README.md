@@ -13,6 +13,8 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 👷 Check out what I'm currently working on
 
+- [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) - Standalone replacement for systemd-tmpfiles (today)
+- [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel (today)
 - [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
