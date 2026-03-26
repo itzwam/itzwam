@@ -22,6 +22,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [feat: /etc/protocols - to make sockstats usable](https://github.com/nixos-bsd/nixbsd/pull/56) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (today)
 - [nixos/nix-channel: fix broken newline in tmpfiles rule - staging](https://github.com/NixOS/nixpkgs/pull/503125) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
 - [freebsd.mount_cd9660: init at v0](https://github.com/NixOS/nixpkgs/pull/503121) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
 - [feat: make images improvements](https://github.com/nixos-bsd/nixbsd/pull/55) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (2 days ago)
@@ -31,7 +32,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [nixos/nix-channel: fix broken newline in tmpfiles rule](https://github.com/NixOS/nixpkgs/pull/503065) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
 - [feat: openssl tls.key_file pkcs11:](https://github.com/fluent/fluent-bit/pull/11611) on [fluent/fluent-bit](https://github.com/fluent/fluent-bit) (3 days ago)
 - [WIP: Feat/installer iso](https://github.com/nixos-bsd/nixbsd/pull/52) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (2 weeks ago)
-- [Add FreeBSD architecture options to PR template](https://github.com/NixOS/nixpkgs/pull/498038) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
