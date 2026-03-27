@@ -13,8 +13,8 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 👷 Check out what I'm currently working on
 
-- [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) - Standalone replacement for systemd-tmpfiles (2 days ago)
-- [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel (2 days ago)
+- [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) - Standalone replacement for systemd-tmpfiles (3 days ago)
+- [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel (3 days ago)
 - [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -22,22 +22,22 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [feat: /etc/protocols - to make sockstats usable](https://github.com/nixos-bsd/nixbsd/pull/56) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (today)
-- [nixos/nix-channel: fix broken newline in tmpfiles rule - staging](https://github.com/NixOS/nixpkgs/pull/503125) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
-- [freebsd.mount_cd9660: init at v0](https://github.com/NixOS/nixpkgs/pull/503121) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
-- [feat: make images improvements](https://github.com/nixos-bsd/nixbsd/pull/55) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (2 days ago)
-- [feat: nixos-generate-config](https://github.com/nixos-bsd/nixbsd/pull/54) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (2 days ago)
-- [feat: flake-less entrypoint](https://github.com/nixos-bsd/nixbsd/pull/53) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (2 days ago)
-- [feat: flake-less entrypoint](https://github.com/nixos-bsd/mini-tmpfiles/pull/5) on [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) (2 days ago)
-- [nixos/nix-channel: fix broken newline in tmpfiles rule](https://github.com/NixOS/nixpkgs/pull/503065) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 days ago)
-- [feat: openssl tls.key_file pkcs11:](https://github.com/fluent/fluent-bit/pull/11611) on [fluent/fluent-bit](https://github.com/fluent/fluent-bit) (3 days ago)
+- [feat: /etc/protocols - to make sockstats usable](https://github.com/nixos-bsd/nixbsd/pull/56) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (1 day ago)
+- [nixos/nix-channel: fix broken newline in tmpfiles rule - staging](https://github.com/NixOS/nixpkgs/pull/503125) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
+- [freebsd.mount_cd9660: init at v0](https://github.com/NixOS/nixpkgs/pull/503121) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
+- [feat: make images improvements](https://github.com/nixos-bsd/nixbsd/pull/55) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (3 days ago)
+- [feat: nixos-generate-config](https://github.com/nixos-bsd/nixbsd/pull/54) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (3 days ago)
+- [feat: flake-less entrypoint](https://github.com/nixos-bsd/nixbsd/pull/53) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (3 days ago)
+- [feat: flake-less entrypoint](https://github.com/nixos-bsd/mini-tmpfiles/pull/5) on [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) (3 days ago)
+- [nixos/nix-channel: fix broken newline in tmpfiles rule](https://github.com/NixOS/nixpkgs/pull/503065) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (3 days ago)
+- [feat: openssl tls.key_file pkcs11:](https://github.com/fluent/fluent-bit/pull/11611) on [fluent/fluent-bit](https://github.com/fluent/fluent-bit) (4 days ago)
 - [WIP: Feat/installer iso](https://github.com/nixos-bsd/nixbsd/pull/52) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [criteo/firmirror](https://github.com/criteo/firmirror) - LVFS at home/datacenters for your on-prem servers (1 week ago)
-- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services. (2 weeks ago)
-- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer] (2 weeks ago)
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services. (3 weeks ago)
+- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer] (3 weeks ago)
 - [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr. (1 month ago)
 - [ansman/git-praise](https://github.com/ansman/git-praise) - Use git-praise to find out who to thank for that magical piece of code. (10 months ago)
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles (1 year ago)
