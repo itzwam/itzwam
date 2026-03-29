@@ -22,6 +22,8 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [WIP: feat: nix-eval-jobs support arrays](https://github.com/lix-project/lix/pull/18) on [lix-project/lix](https://github.com/lix-project/lix) (today)
+- [WIP: feat: nix-eval-jobs support for array of derivations](https://github.com/NixOS/nix-eval-jobs/pull/410) on [NixOS/nix-eval-jobs](https://github.com/NixOS/nix-eval-jobs) (today)
 - [feat: /etc/protocols - to make sockstats usable](https://github.com/nixos-bsd/nixbsd/pull/56) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (3 days ago)
 - [nixos/nix-channel: fix broken newline in tmpfiles rule - staging](https://github.com/NixOS/nixpkgs/pull/503125) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
 - [freebsd.mount_cd9660: init at v0](https://github.com/NixOS/nixpkgs/pull/503121) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
@@ -30,8 +32,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [feat: flake-less entrypoint](https://github.com/nixos-bsd/nixbsd/pull/53) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (5 days ago)
 - [feat: flake-less entrypoint](https://github.com/nixos-bsd/mini-tmpfiles/pull/5) on [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) (5 days ago)
 - [nixos/nix-channel: fix broken newline in tmpfiles rule](https://github.com/NixOS/nixpkgs/pull/503065) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
-- [feat: openssl tls.key_file pkcs11:](https://github.com/fluent/fluent-bit/pull/11611) on [fluent/fluent-bit](https://github.com/fluent/fluent-bit) (6 days ago)
-- [WIP: Feat/installer iso](https://github.com/nixos-bsd/nixbsd/pull/52) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
