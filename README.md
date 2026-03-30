@@ -13,8 +13,8 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 👷 Check out what I'm currently working on
 
-- [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) - Standalone replacement for systemd-tmpfiles (5 days ago)
-- [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel (5 days ago)
+- [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) - Standalone replacement for systemd-tmpfiles (6 days ago)
+- [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel (6 days ago)
 - [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (10 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -22,16 +22,16 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [WIP: feat: nix-eval-jobs support arrays](https://github.com/lix-project/lix/pull/18) on [lix-project/lix](https://github.com/lix-project/lix) (today)
-- [WIP: feat: nix-eval-jobs support for array of derivations](https://github.com/NixOS/nix-eval-jobs/pull/410) on [NixOS/nix-eval-jobs](https://github.com/NixOS/nix-eval-jobs) (today)
-- [feat: /etc/protocols - to make sockstats usable](https://github.com/nixos-bsd/nixbsd/pull/56) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (3 days ago)
-- [nixos/nix-channel: fix broken newline in tmpfiles rule - staging](https://github.com/NixOS/nixpkgs/pull/503125) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
-- [freebsd.mount_cd9660: init at v0](https://github.com/NixOS/nixpkgs/pull/503121) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
-- [feat: make images improvements](https://github.com/nixos-bsd/nixbsd/pull/55) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (5 days ago)
-- [feat: nixos-generate-config](https://github.com/nixos-bsd/nixbsd/pull/54) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (5 days ago)
-- [feat: flake-less entrypoint](https://github.com/nixos-bsd/nixbsd/pull/53) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (5 days ago)
-- [feat: flake-less entrypoint](https://github.com/nixos-bsd/mini-tmpfiles/pull/5) on [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) (5 days ago)
-- [nixos/nix-channel: fix broken newline in tmpfiles rule](https://github.com/NixOS/nixpkgs/pull/503065) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (5 days ago)
+- [WIP: feat: nix-eval-jobs support arrays](https://github.com/lix-project/lix/pull/18) on [lix-project/lix](https://github.com/lix-project/lix) (1 day ago)
+- [WIP: feat: nix-eval-jobs support for array of derivations](https://github.com/NixOS/nix-eval-jobs/pull/410) on [NixOS/nix-eval-jobs](https://github.com/NixOS/nix-eval-jobs) (1 day ago)
+- [feat: /etc/protocols - to make sockstats usable](https://github.com/nixos-bsd/nixbsd/pull/56) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (4 days ago)
+- [nixos/nix-channel: fix broken newline in tmpfiles rule - staging](https://github.com/NixOS/nixpkgs/pull/503125) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
+- [freebsd.mount_cd9660: init at v0](https://github.com/NixOS/nixpkgs/pull/503121) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
+- [feat: make images improvements](https://github.com/nixos-bsd/nixbsd/pull/55) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (6 days ago)
+- [feat: nixos-generate-config](https://github.com/nixos-bsd/nixbsd/pull/54) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (6 days ago)
+- [feat: flake-less entrypoint](https://github.com/nixos-bsd/nixbsd/pull/53) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (6 days ago)
+- [feat: flake-less entrypoint](https://github.com/nixos-bsd/mini-tmpfiles/pull/5) on [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) (6 days ago)
+- [nixos/nix-channel: fix broken newline in tmpfiles rule](https://github.com/NixOS/nixpkgs/pull/503065) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (6 days ago)
 
 #### ⭐ Recent Stars
 
@@ -41,7 +41,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr. (1 month ago)
 - [ansman/git-praise](https://github.com/ansman/git-praise) - Use git-praise to find out who to thank for that magical piece of code. (10 months ago)
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles (1 year ago)
-- [puckipedia/tarnix](https://github.com/puckipedia/tarnix) - Who needs NAR files anyways? (1 year ago)
+- [puckipedia/tarnix](https://github.com/puckipedia/tarnix) - Who needs NAR files anyways? (2 years ago)
 - [atopile/atopile](https://github.com/atopile/atopile) - Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ (2 years ago)
 - [nicolasbernard/kubepkgs](https://github.com/nicolasbernard/kubepkgs) - OCI &amp; Manifests collection (2 years ago)
 - [xddxdd/route-chain](https://github.com/xddxdd/route-chain) - A small app to generate a long path in traceroute. (2 years ago)
