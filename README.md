@@ -22,9 +22,9 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Allow configuring the groupbar&#39;s position #11805](https://github.com/hyprwm/Hyprland/pull/13967) on [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (today)
-- [WIP: feat: nix-eval-jobs support arrays](https://github.com/lix-project/lix/pull/18) on [lix-project/lix](https://github.com/lix-project/lix) (5 days ago)
-- [WIP: feat: nix-eval-jobs support for array of derivations](https://github.com/NixOS/nix-eval-jobs/pull/410) on [NixOS/nix-eval-jobs](https://github.com/NixOS/nix-eval-jobs) (5 days ago)
+- [feat: Allow configuring the groupbar&#39;s position #11805](https://github.com/hyprwm/Hyprland/pull/13967) on [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (1 day ago)
+- [WIP: feat: nix-eval-jobs support arrays](https://github.com/lix-project/lix/pull/18) on [lix-project/lix](https://github.com/lix-project/lix) (6 days ago)
+- [WIP: feat: nix-eval-jobs support for array of derivations](https://github.com/NixOS/nix-eval-jobs/pull/410) on [NixOS/nix-eval-jobs](https://github.com/NixOS/nix-eval-jobs) (6 days ago)
 - [feat: /etc/protocols - to make sockstats usable](https://github.com/nixos-bsd/nixbsd/pull/56) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (1 week ago)
 - [nixos/nix-channel: fix broken newline in tmpfiles rule - staging](https://github.com/NixOS/nixpkgs/pull/503125) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 - [freebsd.mount_cd9660: init at v0](https://github.com/NixOS/nixpkgs/pull/503121) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
