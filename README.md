@@ -22,6 +22,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [feat: show slot status on key creation](https://github.com/chris2511/xca/pull/718) on [chris2511/xca](https://github.com/chris2511/xca) (today)
 - [feat: Allow configuring the groupbar&#39;s position #11805](https://github.com/hyprwm/Hyprland/pull/13967) on [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (1 day ago)
 - [WIP: feat: nix-eval-jobs support arrays](https://github.com/lix-project/lix/pull/18) on [lix-project/lix](https://github.com/lix-project/lix) (6 days ago)
 - [WIP: feat: nix-eval-jobs support for array of derivations](https://github.com/NixOS/nix-eval-jobs/pull/410) on [NixOS/nix-eval-jobs](https://github.com/NixOS/nix-eval-jobs) (6 days ago)
@@ -31,7 +32,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [feat: make images improvements](https://github.com/nixos-bsd/nixbsd/pull/55) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (1 week ago)
 - [feat: nixos-generate-config](https://github.com/nixos-bsd/nixbsd/pull/54) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (1 week ago)
 - [feat: flake-less entrypoint](https://github.com/nixos-bsd/nixbsd/pull/53) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (1 week ago)
-- [feat: flake-less entrypoint](https://github.com/nixos-bsd/mini-tmpfiles/pull/5) on [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) (1 week ago)
 
 #### ⭐ Recent Stars
 
