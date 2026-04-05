@@ -22,10 +22,10 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [feat: show slot status on key creation](https://github.com/chris2511/xca/pull/718) on [chris2511/xca](https://github.com/chris2511/xca) (today)
-- [feat: Allow configuring the groupbar&#39;s position #11805](https://github.com/hyprwm/Hyprland/pull/13967) on [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (1 day ago)
-- [WIP: feat: nix-eval-jobs support arrays](https://github.com/lix-project/lix/pull/18) on [lix-project/lix](https://github.com/lix-project/lix) (6 days ago)
-- [WIP: feat: nix-eval-jobs support for array of derivations](https://github.com/NixOS/nix-eval-jobs/pull/410) on [NixOS/nix-eval-jobs](https://github.com/NixOS/nix-eval-jobs) (6 days ago)
+- [feat: show slot status on key creation](https://github.com/chris2511/xca/pull/718) on [chris2511/xca](https://github.com/chris2511/xca) (1 day ago)
+- [feat: Allow configuring the groupbar&#39;s position #11805](https://github.com/hyprwm/Hyprland/pull/13967) on [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (2 days ago)
+- [WIP: feat: nix-eval-jobs support arrays](https://github.com/lix-project/lix/pull/18) on [lix-project/lix](https://github.com/lix-project/lix) (1 week ago)
+- [WIP: feat: nix-eval-jobs support for array of derivations](https://github.com/NixOS/nix-eval-jobs/pull/410) on [NixOS/nix-eval-jobs](https://github.com/NixOS/nix-eval-jobs) (1 week ago)
 - [feat: /etc/protocols - to make sockstats usable](https://github.com/nixos-bsd/nixbsd/pull/56) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (1 week ago)
 - [nixos/nix-channel: fix broken newline in tmpfiles rule - staging](https://github.com/NixOS/nixpkgs/pull/503125) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
 - [freebsd.mount_cd9660: init at v0](https://github.com/NixOS/nixpkgs/pull/503121) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
@@ -36,8 +36,8 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 #### ⭐ Recent Stars
 
 - [criteo/firmirror](https://github.com/criteo/firmirror) - LVFS at home/datacenters for your on-prem servers (2 weeks ago)
-- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services. (4 weeks ago)
-- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer] (4 weeks ago)
+- [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services. (1 month ago)
+- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer] (1 month ago)
 - [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr. (1 month ago)
 - [ansman/git-praise](https://github.com/ansman/git-praise) - Use git-praise to find out who to thank for that magical piece of code. (10 months ago)
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles (1 year ago)
