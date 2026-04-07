@@ -13,25 +13,25 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 👷 Check out what I'm currently working on
 
-- [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) - Standalone replacement for systemd-tmpfiles (1 week ago)
-- [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel (1 week ago)
-- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (10 months ago)
+- [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) - Standalone replacement for systemd-tmpfiles (2 weeks ago)
+- [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel (2 weeks ago)
+- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (11 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
 
 #### 🔨 My recent Pull Requests
 
-- [feat: nix entrypoint](https://github.com/phiekl/yk-piv-age-keygen/pull/1) on [phiekl/yk-piv-age-keygen](https://github.com/phiekl/yk-piv-age-keygen) (today)
-- [feat: woodpecker-cli pipeline log --follow](https://github.com/woodpecker-ci/woodpecker/pull/6388) on [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) (1 day ago)
-- [feat: show slot status on key creation](https://github.com/chris2511/xca/pull/718) on [chris2511/xca](https://github.com/chris2511/xca) (2 days ago)
-- [feat: Allow configuring the groupbar&#39;s position #11805](https://github.com/hyprwm/Hyprland/pull/13967) on [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (3 days ago)
+- [feat: nix entrypoint](https://github.com/phiekl/yk-piv-age-keygen/pull/1) on [phiekl/yk-piv-age-keygen](https://github.com/phiekl/yk-piv-age-keygen) (1 day ago)
+- [feat: woodpecker-cli pipeline log --follow](https://github.com/woodpecker-ci/woodpecker/pull/6388) on [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) (2 days ago)
+- [feat: show slot status on key creation](https://github.com/chris2511/xca/pull/718) on [chris2511/xca](https://github.com/chris2511/xca) (3 days ago)
+- [feat: Allow configuring the groupbar&#39;s position #11805](https://github.com/hyprwm/Hyprland/pull/13967) on [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (4 days ago)
 - [WIP: feat: nix-eval-jobs support arrays](https://github.com/lix-project/lix/pull/18) on [lix-project/lix](https://github.com/lix-project/lix) (1 week ago)
 - [WIP: feat: nix-eval-jobs support for array of derivations](https://github.com/NixOS/nix-eval-jobs/pull/410) on [NixOS/nix-eval-jobs](https://github.com/NixOS/nix-eval-jobs) (1 week ago)
 - [feat: /etc/protocols - to make sockstats usable](https://github.com/nixos-bsd/nixbsd/pull/56) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (1 week ago)
-- [nixos/nix-channel: fix broken newline in tmpfiles rule - staging](https://github.com/NixOS/nixpkgs/pull/503125) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
-- [freebsd.mount_cd9660: init at v0](https://github.com/NixOS/nixpkgs/pull/503121) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (1 week ago)
-- [feat: make images improvements](https://github.com/nixos-bsd/nixbsd/pull/55) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (1 week ago)
+- [nixos/nix-channel: fix broken newline in tmpfiles rule - staging](https://github.com/NixOS/nixpkgs/pull/503125) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
+- [freebsd.mount_cd9660: init at v0](https://github.com/NixOS/nixpkgs/pull/503121) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) (2 weeks ago)
+- [feat: make images improvements](https://github.com/nixos-bsd/nixbsd/pull/55) on [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
