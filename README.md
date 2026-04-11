@@ -22,9 +22,9 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [feat: nix entrypoint](https://github.com/phiekl/yk-piv-age-keygen/pull/1) on [phiekl/yk-piv-age-keygen](https://github.com/phiekl/yk-piv-age-keygen) (4 days ago)
-- [feat: woodpecker-cli pipeline log --follow](https://github.com/woodpecker-ci/woodpecker/pull/6388) on [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) (5 days ago)
-- [feat: show slot status on key creation](https://github.com/chris2511/xca/pull/718) on [chris2511/xca](https://github.com/chris2511/xca) (6 days ago)
+- [feat: nix entrypoint](https://github.com/phiekl/yk-piv-age-keygen/pull/1) on [phiekl/yk-piv-age-keygen](https://github.com/phiekl/yk-piv-age-keygen) (5 days ago)
+- [feat: woodpecker-cli pipeline log --follow](https://github.com/woodpecker-ci/woodpecker/pull/6388) on [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) (6 days ago)
+- [feat: show slot status on key creation](https://github.com/chris2511/xca/pull/718) on [chris2511/xca](https://github.com/chris2511/xca) (1 week ago)
 - [feat: Allow configuring the groupbar&#39;s position #11805](https://github.com/hyprwm/Hyprland/pull/13967) on [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (1 week ago)
 - [WIP: feat: nix-eval-jobs support arrays](https://github.com/lix-project/lix/pull/18) on [lix-project/lix](https://github.com/lix-project/lix) (1 week ago)
 - [WIP: feat: nix-eval-jobs support for array of derivations](https://github.com/NixOS/nix-eval-jobs/pull/410) on [NixOS/nix-eval-jobs](https://github.com/NixOS/nix-eval-jobs) (1 week ago)
@@ -35,7 +35,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### ⭐ Recent Stars
 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (today)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 day ago)
 - [criteo/firmirror](https://github.com/criteo/firmirror) - LVFS at home/datacenters for your on-prem servers (3 weeks ago)
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services. (1 month ago)
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer] (1 month ago)
