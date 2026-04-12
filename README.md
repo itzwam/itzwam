@@ -22,6 +22,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [feat: sysupgrade](https://github.com/KittenConnect/nixconfigs/pull/28) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [feat: NAT Rules on vultr](https://github.com/KittenConnect/nixconfigs/pull/27) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [New ASN](https://github.com/KittenConnect/nixconfigs/pull/26) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [fix: CI pages toplevel](https://github.com/KittenConnect/nixconfigs/pull/25) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
@@ -31,7 +32,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [feat: show slot status on key creation](https://github.com/chris2511/xca/pull/718) on [chris2511/xca](https://github.com/chris2511/xca) (1 week ago)
 - [feat: Allow configuring the groupbar&#39;s position #11805](https://github.com/hyprwm/Hyprland/pull/13967) on [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (1 week ago)
 - [WIP: feat: nix-eval-jobs support arrays](https://github.com/lix-project/lix/pull/18) on [lix-project/lix](https://github.com/lix-project/lix) (2 weeks ago)
-- [WIP: feat: nix-eval-jobs support for array of derivations](https://github.com/NixOS/nix-eval-jobs/pull/410) on [NixOS/nix-eval-jobs](https://github.com/NixOS/nix-eval-jobs) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
