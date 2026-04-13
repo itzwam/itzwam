@@ -22,6 +22,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Bird module rework](https://github.com/KittenConnect/nixconfigs/pull/30) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [Update nix-shell](https://github.com/KittenConnect/nixconfigs/pull/29) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [feat: sysupgrade](https://github.com/KittenConnect/nixconfigs/pull/28) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [feat: NAT Rules on vultr](https://github.com/KittenConnect/nixconfigs/pull/27) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
@@ -31,7 +32,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [feat: nix entrypoint](https://github.com/phiekl/yk-piv-age-keygen/pull/1) on [phiekl/yk-piv-age-keygen](https://github.com/phiekl/yk-piv-age-keygen) (1 week ago)
 - [feat: woodpecker-cli pipeline log --follow](https://github.com/woodpecker-ci/woodpecker/pull/6388) on [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) (1 week ago)
 - [feat: show slot status on key creation](https://github.com/chris2511/xca/pull/718) on [chris2511/xca](https://github.com/chris2511/xca) (1 week ago)
-- [feat: Allow configuring the groupbar&#39;s position #11805](https://github.com/hyprwm/Hyprland/pull/13967) on [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (1 week ago)
 
 #### ⭐ Recent Stars
 
