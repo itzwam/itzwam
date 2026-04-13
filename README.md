@@ -22,12 +22,12 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [feat: sysupgrade](https://github.com/KittenConnect/nixconfigs/pull/28) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [feat: NAT Rules on vultr](https://github.com/KittenConnect/nixconfigs/pull/27) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [New ASN](https://github.com/KittenConnect/nixconfigs/pull/26) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [fix: CI pages toplevel](https://github.com/KittenConnect/nixconfigs/pull/25) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [New as](https://github.com/KittenConnect/nixconfigs/pull/24) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [feat: nix entrypoint](https://github.com/phiekl/yk-piv-age-keygen/pull/1) on [phiekl/yk-piv-age-keygen](https://github.com/phiekl/yk-piv-age-keygen) (6 days ago)
+- [feat: sysupgrade](https://github.com/KittenConnect/nixconfigs/pull/28) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [feat: NAT Rules on vultr](https://github.com/KittenConnect/nixconfigs/pull/27) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [New ASN](https://github.com/KittenConnect/nixconfigs/pull/26) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [fix: CI pages toplevel](https://github.com/KittenConnect/nixconfigs/pull/25) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [New as](https://github.com/KittenConnect/nixconfigs/pull/24) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [feat: nix entrypoint](https://github.com/phiekl/yk-piv-age-keygen/pull/1) on [phiekl/yk-piv-age-keygen](https://github.com/phiekl/yk-piv-age-keygen) (1 week ago)
 - [feat: woodpecker-cli pipeline log --follow](https://github.com/woodpecker-ci/woodpecker/pull/6388) on [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) (1 week ago)
 - [feat: show slot status on key creation](https://github.com/chris2511/xca/pull/718) on [chris2511/xca](https://github.com/chris2511/xca) (1 week ago)
 - [feat: Allow configuring the groupbar&#39;s position #11805](https://github.com/hyprwm/Hyprland/pull/13967) on [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) (1 week ago)
@@ -35,7 +35,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### ⭐ Recent Stars
 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (2 days ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (3 days ago)
 - [criteo/firmirror](https://github.com/criteo/firmirror) - LVFS at home/datacenters for your on-prem servers (3 weeks ago)
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services. (1 month ago)
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer] (1 month ago)
