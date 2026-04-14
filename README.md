@@ -14,32 +14,32 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 #### 👷 Check out what I'm currently working on
 
 - [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (today)
-- [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) - Standalone replacement for systemd-tmpfiles (2 weeks ago)
-- [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel (2 weeks ago)
+- [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) - Standalone replacement for systemd-tmpfiles (3 weeks ago)
+- [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
 
 #### 🔨 My recent Pull Requests
 
-- [Feat/bird: direct protocol &#43; external config files &#43; cleanup](https://github.com/KittenConnect/nixconfigs/pull/32) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [feat: Bird module rework](https://github.com/KittenConnect/nixconfigs/pull/30) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [Update nix-shell](https://github.com/KittenConnect/nixconfigs/pull/29) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [feat: sysupgrade](https://github.com/KittenConnect/nixconfigs/pull/28) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [feat: NAT Rules on vultr](https://github.com/KittenConnect/nixconfigs/pull/27) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [New ASN](https://github.com/KittenConnect/nixconfigs/pull/26) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [fix: CI pages toplevel](https://github.com/KittenConnect/nixconfigs/pull/25) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
-- [New as](https://github.com/KittenConnect/nixconfigs/pull/24) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
-- [feat: nix entrypoint](https://github.com/phiekl/yk-piv-age-keygen/pull/1) on [phiekl/yk-piv-age-keygen](https://github.com/phiekl/yk-piv-age-keygen) (1 week ago)
-- [feat: woodpecker-cli pipeline log --follow](https://github.com/woodpecker-ci/woodpecker/pull/6388) on [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) (1 week ago)
+- [chore: cleanup old things](https://github.com/KittenConnect/nixconfigs/pull/34) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
+- [feat: bird split options](https://github.com/KittenConnect/nixconfigs/pull/33) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [Feat/bird: direct protocol &#43; external config files &#43; cleanup](https://github.com/KittenConnect/nixconfigs/pull/32) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [feat: Bird module rework](https://github.com/KittenConnect/nixconfigs/pull/30) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [Update nix-shell](https://github.com/KittenConnect/nixconfigs/pull/29) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [feat: sysupgrade](https://github.com/KittenConnect/nixconfigs/pull/28) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [feat: NAT Rules on vultr](https://github.com/KittenConnect/nixconfigs/pull/27) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [New ASN](https://github.com/KittenConnect/nixconfigs/pull/26) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [fix: CI pages toplevel](https://github.com/KittenConnect/nixconfigs/pull/25) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
+- [New as](https://github.com/KittenConnect/nixconfigs/pull/24) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
 
 #### ⭐ Recent Stars
 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (3 days ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (4 days ago)
 - [criteo/firmirror](https://github.com/criteo/firmirror) - LVFS at home/datacenters for your on-prem servers (3 weeks ago)
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services. (1 month ago)
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer] (1 month ago)
-- [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr. (1 month ago)
+- [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr. (2 months ago)
 - [ansman/git-praise](https://github.com/ansman/git-praise) - Use git-praise to find out who to thank for that magical piece of code. (11 months ago)
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles (1 year ago)
 - [puckipedia/tarnix](https://github.com/puckipedia/tarnix) - Who needs NAR files anyways? (2 years ago)
