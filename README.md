@@ -22,6 +22,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [chore: renumber ASN &#43; INET6](https://github.com/KittenConnect/nixconfigs/pull/36) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [chore: bird2 cleaner peer conf](https://github.com/KittenConnect/nixconfigs/pull/35) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [chore: cleanup old things](https://github.com/KittenConnect/nixconfigs/pull/34) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [feat: bird split options](https://github.com/KittenConnect/nixconfigs/pull/33) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
@@ -31,7 +32,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [feat: sysupgrade](https://github.com/KittenConnect/nixconfigs/pull/28) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
 - [feat: NAT Rules on vultr](https://github.com/KittenConnect/nixconfigs/pull/27) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
 - [New ASN](https://github.com/KittenConnect/nixconfigs/pull/26) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
-- [fix: CI pages toplevel](https://github.com/KittenConnect/nixconfigs/pull/25) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
 
 #### ⭐ Recent Stars
 
