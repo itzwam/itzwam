@@ -22,21 +22,21 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [feat: support HTTPs PROXY URL](https://github.com/fluent/fluent-bit/pull/11708) on [fluent/fluent-bit](https://github.com/fluent/fluent-bit) (today)
-- [chore: renumber ASN &#43; INET6](https://github.com/KittenConnect/nixconfigs/pull/36) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [chore: bird2 cleaner peer conf](https://github.com/KittenConnect/nixconfigs/pull/35) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [chore: cleanup old things](https://github.com/KittenConnect/nixconfigs/pull/34) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [feat: bird split options](https://github.com/KittenConnect/nixconfigs/pull/33) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [Feat/bird: direct protocol &#43; external config files &#43; cleanup](https://github.com/KittenConnect/nixconfigs/pull/32) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [feat: Bird module rework](https://github.com/KittenConnect/nixconfigs/pull/30) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [Update nix-shell](https://github.com/KittenConnect/nixconfigs/pull/29) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [feat: sysupgrade](https://github.com/KittenConnect/nixconfigs/pull/28) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
-- [feat: NAT Rules on vultr](https://github.com/KittenConnect/nixconfigs/pull/27) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [chore: roumain](https://github.com/KittenConnect/nixconfigs/pull/40) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
+- [feat: support HTTPs PROXY URL](https://github.com/fluent/fluent-bit/pull/11708) on [fluent/fluent-bit](https://github.com/fluent/fluent-bit) (1 day ago)
+- [chore: renumber ASN &#43; INET6](https://github.com/KittenConnect/nixconfigs/pull/36) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [chore: bird2 cleaner peer conf](https://github.com/KittenConnect/nixconfigs/pull/35) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [chore: cleanup old things](https://github.com/KittenConnect/nixconfigs/pull/34) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [feat: bird split options](https://github.com/KittenConnect/nixconfigs/pull/33) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [Feat/bird: direct protocol &#43; external config files &#43; cleanup](https://github.com/KittenConnect/nixconfigs/pull/32) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [feat: Bird module rework](https://github.com/KittenConnect/nixconfigs/pull/30) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [Update nix-shell](https://github.com/KittenConnect/nixconfigs/pull/29) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [feat: sysupgrade](https://github.com/KittenConnect/nixconfigs/pull/28) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
 
 #### ⭐ Recent Stars
 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (4 days ago)
-- [criteo/firmirror](https://github.com/criteo/firmirror) - LVFS at home/datacenters for your on-prem servers (3 weeks ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (5 days ago)
+- [criteo/firmirror](https://github.com/criteo/firmirror) - LVFS at home/datacenters for your on-prem servers (4 weeks ago)
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services. (1 month ago)
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer] (1 month ago)
 - [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr. (2 months ago)
