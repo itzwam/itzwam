@@ -22,6 +22,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [feat: /etc/nixos](https://github.com/KittenConnect/nixconfigs/pull/45) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [chore: cleanup secrets &#43; configs](https://github.com/KittenConnect/nixconfigs/pull/44) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [chore: move pkgsConfig &#43; unfree config](https://github.com/KittenConnect/nixconfigs/pull/43) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [fix: system profiles](https://github.com/KittenConnect/nixconfigs/pull/42) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
@@ -31,7 +32,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [chore: renumber ASN &#43; INET6](https://github.com/KittenConnect/nixconfigs/pull/36) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [chore: bird2 cleaner peer conf](https://github.com/KittenConnect/nixconfigs/pull/35) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [chore: cleanup old things](https://github.com/KittenConnect/nixconfigs/pull/34) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [feat: bird split options](https://github.com/KittenConnect/nixconfigs/pull/33) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
 
 #### ⭐ Recent Stars
 
