@@ -22,6 +22,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [fix: system profiles](https://github.com/KittenConnect/nixconfigs/pull/42) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [fix: use specialArgs for external modules](https://github.com/KittenConnect/nixconfigs/pull/41) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [chore: roumain](https://github.com/KittenConnect/nixconfigs/pull/40) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [feat: support HTTPs PROXY URL](https://github.com/fluent/fluent-bit/pull/11708) on [fluent/fluent-bit](https://github.com/fluent/fluent-bit) (1 day ago)
@@ -31,7 +32,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [feat: bird split options](https://github.com/KittenConnect/nixconfigs/pull/33) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
 - [Feat/bird: direct protocol &#43; external config files &#43; cleanup](https://github.com/KittenConnect/nixconfigs/pull/32) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
 - [feat: Bird module rework](https://github.com/KittenConnect/nixconfigs/pull/30) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
-- [Update nix-shell](https://github.com/KittenConnect/nixconfigs/pull/29) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
 
 #### ⭐ Recent Stars
 
