@@ -22,6 +22,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [chore: cleanup &#43; use kittenLib.network](https://github.com/KittenConnect/nixconfigs/pull/49) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [chore: cleanup old configuration files](https://github.com/KittenConnect/nixconfigs/pull/48) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [chore: clean](https://github.com/KittenConnect/nixconfigs/pull/47) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [feat: lib params &#43; peers](https://github.com/KittenConnect/nixconfigs/pull/46) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
@@ -31,7 +32,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [fix: system profiles](https://github.com/KittenConnect/nixconfigs/pull/42) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [fix: use specialArgs for external modules](https://github.com/KittenConnect/nixconfigs/pull/41) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [chore: roumain](https://github.com/KittenConnect/nixconfigs/pull/40) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [feat: support HTTPs PROXY URL](https://github.com/fluent/fluent-bit/pull/11708) on [fluent/fluent-bit](https://github.com/fluent/fluent-bit) (2 days ago)
 
 #### ⭐ Recent Stars
 
