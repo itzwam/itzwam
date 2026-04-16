@@ -22,6 +22,8 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [feat: determinate &#43; cache](https://github.com/KittenConnect/nixconfigs/pull/51) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
+- [ feat: peer auto address ](https://github.com/KittenConnect/nixconfigs/pull/50) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [chore: cleanup &#43; use kittenLib.network](https://github.com/KittenConnect/nixconfigs/pull/49) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [chore: cleanup old configuration files](https://github.com/KittenConnect/nixconfigs/pull/48) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [chore: clean](https://github.com/KittenConnect/nixconfigs/pull/47) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
@@ -30,8 +32,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [chore: cleanup secrets &#43; configs](https://github.com/KittenConnect/nixconfigs/pull/44) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [chore: move pkgsConfig &#43; unfree config](https://github.com/KittenConnect/nixconfigs/pull/43) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [fix: system profiles](https://github.com/KittenConnect/nixconfigs/pull/42) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [fix: use specialArgs for external modules](https://github.com/KittenConnect/nixconfigs/pull/41) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [chore: roumain](https://github.com/KittenConnect/nixconfigs/pull/40) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 
 #### ⭐ Recent Stars
 
