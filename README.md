@@ -22,6 +22,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [feat: virtua router deployment &#43; annnnouncement](https://github.com/KittenConnect/nixconfigs/pull/52) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [feat: determinate &#43; cache](https://github.com/KittenConnect/nixconfigs/pull/51) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [ feat: peer auto address ](https://github.com/KittenConnect/nixconfigs/pull/50) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [chore: cleanup &#43; use kittenLib.network](https://github.com/KittenConnect/nixconfigs/pull/49) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
@@ -31,7 +32,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [feat: /etc/nixos](https://github.com/KittenConnect/nixconfigs/pull/45) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [chore: cleanup secrets &#43; configs](https://github.com/KittenConnect/nixconfigs/pull/44) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [chore: move pkgsConfig &#43; unfree config](https://github.com/KittenConnect/nixconfigs/pull/43) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [fix: system profiles](https://github.com/KittenConnect/nixconfigs/pull/42) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 
 #### ⭐ Recent Stars
 
