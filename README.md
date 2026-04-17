@@ -13,7 +13,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 👷 Check out what I'm currently working on
 
-- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (1 day ago)
+- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (2 days ago)
 - [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) - Standalone replacement for systemd-tmpfiles (3 weeks ago)
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel (3 weeks ago)
 
@@ -22,21 +22,21 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [feat: virtua router deployment &#43; annnnouncement](https://github.com/KittenConnect/nixconfigs/pull/52) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [feat: determinate &#43; cache](https://github.com/KittenConnect/nixconfigs/pull/51) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [ feat: peer auto address ](https://github.com/KittenConnect/nixconfigs/pull/50) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [chore: cleanup &#43; use kittenLib.network](https://github.com/KittenConnect/nixconfigs/pull/49) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [chore: cleanup old configuration files](https://github.com/KittenConnect/nixconfigs/pull/48) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [chore: clean](https://github.com/KittenConnect/nixconfigs/pull/47) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [feat: lib params &#43; peers](https://github.com/KittenConnect/nixconfigs/pull/46) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [feat: /etc/nixos](https://github.com/KittenConnect/nixconfigs/pull/45) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [chore: cleanup secrets &#43; configs](https://github.com/KittenConnect/nixconfigs/pull/44) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [chore: move pkgsConfig &#43; unfree config](https://github.com/KittenConnect/nixconfigs/pull/43) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [feat: virtua router deployment &#43; annnnouncement](https://github.com/KittenConnect/nixconfigs/pull/52) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [feat: determinate &#43; cache](https://github.com/KittenConnect/nixconfigs/pull/51) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [ feat: peer auto address ](https://github.com/KittenConnect/nixconfigs/pull/50) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [chore: cleanup &#43; use kittenLib.network](https://github.com/KittenConnect/nixconfigs/pull/49) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [chore: cleanup old configuration files](https://github.com/KittenConnect/nixconfigs/pull/48) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [chore: clean](https://github.com/KittenConnect/nixconfigs/pull/47) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [feat: lib params &#43; peers](https://github.com/KittenConnect/nixconfigs/pull/46) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [feat: /etc/nixos](https://github.com/KittenConnect/nixconfigs/pull/45) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [chore: cleanup secrets &#43; configs](https://github.com/KittenConnect/nixconfigs/pull/44) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [chore: move pkgsConfig &#43; unfree config](https://github.com/KittenConnect/nixconfigs/pull/43) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
 
 #### ⭐ Recent Stars
 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (6 days ago)
-- [criteo/firmirror](https://github.com/criteo/firmirror) - LVFS at home/datacenters for your on-prem servers (4 weeks ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 week ago)
+- [criteo/firmirror](https://github.com/criteo/firmirror) - LVFS at home/datacenters for your on-prem servers (1 month ago)
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services. (1 month ago)
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer] (1 month ago)
 - [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr. (2 months ago)
