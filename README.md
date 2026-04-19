@@ -22,7 +22,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [feat: goog instance](https://github.com/KittenConnect/nixconfigs/pull/53) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
+- [feat: goog instance &#43; prepare nixos25 upgrade](https://github.com/KittenConnect/nixconfigs/pull/53) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [feat: virtua router deployment &#43; annnnouncement](https://github.com/KittenConnect/nixconfigs/pull/52) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
 - [feat: determinate &#43; cache](https://github.com/KittenConnect/nixconfigs/pull/51) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
 - [ feat: peer auto address ](https://github.com/KittenConnect/nixconfigs/pull/50) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
