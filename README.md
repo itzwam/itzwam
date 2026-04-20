@@ -22,6 +22,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add home modules](https://github.com/KittenConnect/nixconfigs/pull/55) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [chore: upgrade 25.11](https://github.com/KittenConnect/nixconfigs/pull/54) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [feat: goog instance &#43; prepare nixos25 upgrade](https://github.com/KittenConnect/nixconfigs/pull/53) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [feat: virtua router deployment &#43; annnnouncement](https://github.com/KittenConnect/nixconfigs/pull/52) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 days ago)
@@ -31,7 +32,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [chore: cleanup old configuration files](https://github.com/KittenConnect/nixconfigs/pull/48) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 days ago)
 - [chore: clean](https://github.com/KittenConnect/nixconfigs/pull/47) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (5 days ago)
 - [feat: lib params &#43; peers](https://github.com/KittenConnect/nixconfigs/pull/46) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (5 days ago)
-- [feat: /etc/nixos](https://github.com/KittenConnect/nixconfigs/pull/45) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (5 days ago)
 
 #### ⭐ Recent Stars
 
