@@ -22,6 +22,8 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [feat: external peer generator](https://github.com/KittenConnect/nixconfigs/pull/64) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
+- [chore: deprecate range lists for attrs](https://github.com/KittenConnect/nixconfigs/pull/63) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [feat: attrset as filter conf](https://github.com/KittenConnect/nixconfigs/pull/62) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [fix: virtua](https://github.com/KittenConnect/nixconfigs/pull/61) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [feat: peer filters inline &#43; prepend on virtua](https://github.com/KittenConnect/nixconfigs/pull/60) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
@@ -30,8 +32,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [Update Nix build workflow to use cachix actions](https://github.com/KittenConnect/nixconfigs/pull/57) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [Chore/disko upgrade](https://github.com/KittenConnect/nixconfigs/pull/56) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [feat: add home modules](https://github.com/KittenConnect/nixconfigs/pull/55) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [chore: upgrade 25.11](https://github.com/KittenConnect/nixconfigs/pull/54) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [feat: goog instance &#43; prepare nixos25 upgrade](https://github.com/KittenConnect/nixconfigs/pull/53) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 
 #### ⭐ Recent Stars
 
