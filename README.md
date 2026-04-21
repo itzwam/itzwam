@@ -13,7 +13,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 👷 Check out what I'm currently working on
 
-- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (1 day ago)
+- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (today)
 - [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) - Standalone replacement for systemd-tmpfiles (4 weeks ago)
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel (4 weeks ago)
 
@@ -22,6 +22,8 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [feat: templates min MED](https://github.com/KittenConnect/nixconfigs/pull/71) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
+- [feat: hyperglass](https://github.com/KittenConnect/nixconfigs/pull/70) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [fix: autoMED - bird configure in path](https://github.com/KittenConnect/nixconfigs/pull/69) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [fix: autoMED path](https://github.com/KittenConnect/nixconfigs/pull/68) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [fix: autoMED before bird](https://github.com/KittenConnect/nixconfigs/pull/67) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
@@ -30,8 +32,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [feat: external peer generator](https://github.com/KittenConnect/nixconfigs/pull/64) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [chore: deprecate range lists for attrs](https://github.com/KittenConnect/nixconfigs/pull/63) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [feat: attrset as filter conf](https://github.com/KittenConnect/nixconfigs/pull/62) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [fix: virtua](https://github.com/KittenConnect/nixconfigs/pull/61) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [feat: peer filters inline &#43; prepend on virtua](https://github.com/KittenConnect/nixconfigs/pull/60) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 
 #### ⭐ Recent Stars
 
