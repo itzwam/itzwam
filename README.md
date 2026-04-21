@@ -22,6 +22,8 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [chore: autoMED](https://github.com/KittenConnect/nixconfigs/pull/66) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
+- [feat: auto med](https://github.com/KittenConnect/nixconfigs/pull/65) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [feat: external peer generator](https://github.com/KittenConnect/nixconfigs/pull/64) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [chore: deprecate range lists for attrs](https://github.com/KittenConnect/nixconfigs/pull/63) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [feat: attrset as filter conf](https://github.com/KittenConnect/nixconfigs/pull/62) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
@@ -30,8 +32,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [fix: peers disabling only disables them inside bird](https://github.com/KittenConnect/nixconfigs/pull/59) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [chore: die flake](https://github.com/KittenConnect/nixconfigs/pull/58) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [Update Nix build workflow to use cachix actions](https://github.com/KittenConnect/nixconfigs/pull/57) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [Chore/disko upgrade](https://github.com/KittenConnect/nixconfigs/pull/56) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [feat: add home modules](https://github.com/KittenConnect/nixconfigs/pull/55) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 
 #### ⭐ Recent Stars
 
