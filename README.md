@@ -13,25 +13,25 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 👷 Check out what I'm currently working on
 
-- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (today)
-- [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) - Standalone replacement for systemd-tmpfiles (3 weeks ago)
-- [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel (3 weeks ago)
+- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (1 day ago)
+- [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) - Standalone replacement for systemd-tmpfiles (4 weeks ago)
+- [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
 
 #### 🔨 My recent Pull Requests
 
-- [feat: external peer generator](https://github.com/KittenConnect/nixconfigs/pull/64) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [chore: deprecate range lists for attrs](https://github.com/KittenConnect/nixconfigs/pull/63) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [feat: attrset as filter conf](https://github.com/KittenConnect/nixconfigs/pull/62) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [fix: virtua](https://github.com/KittenConnect/nixconfigs/pull/61) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [feat: peer filters inline &#43; prepend on virtua](https://github.com/KittenConnect/nixconfigs/pull/60) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [fix: peers disabling only disables them inside bird](https://github.com/KittenConnect/nixconfigs/pull/59) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [chore: die flake](https://github.com/KittenConnect/nixconfigs/pull/58) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [Update Nix build workflow to use cachix actions](https://github.com/KittenConnect/nixconfigs/pull/57) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [Chore/disko upgrade](https://github.com/KittenConnect/nixconfigs/pull/56) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [feat: add home modules](https://github.com/KittenConnect/nixconfigs/pull/55) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
+- [feat: external peer generator](https://github.com/KittenConnect/nixconfigs/pull/64) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [chore: deprecate range lists for attrs](https://github.com/KittenConnect/nixconfigs/pull/63) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [feat: attrset as filter conf](https://github.com/KittenConnect/nixconfigs/pull/62) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [fix: virtua](https://github.com/KittenConnect/nixconfigs/pull/61) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [feat: peer filters inline &#43; prepend on virtua](https://github.com/KittenConnect/nixconfigs/pull/60) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [fix: peers disabling only disables them inside bird](https://github.com/KittenConnect/nixconfigs/pull/59) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [chore: die flake](https://github.com/KittenConnect/nixconfigs/pull/58) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [Update Nix build workflow to use cachix actions](https://github.com/KittenConnect/nixconfigs/pull/57) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [Chore/disko upgrade](https://github.com/KittenConnect/nixconfigs/pull/56) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [feat: add home modules](https://github.com/KittenConnect/nixconfigs/pull/55) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 
 #### ⭐ Recent Stars
 
