@@ -22,6 +22,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [feat: google compute profile](https://github.com/KittenConnect/nixconfigs/pull/72) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [feat: templates min MED](https://github.com/KittenConnect/nixconfigs/pull/71) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [feat: hyperglass](https://github.com/KittenConnect/nixconfigs/pull/70) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [fix: autoMED - bird configure in path](https://github.com/KittenConnect/nixconfigs/pull/69) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
@@ -31,7 +32,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [feat: auto med](https://github.com/KittenConnect/nixconfigs/pull/65) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [feat: external peer generator](https://github.com/KittenConnect/nixconfigs/pull/64) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
 - [chore: deprecate range lists for attrs](https://github.com/KittenConnect/nixconfigs/pull/63) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
-- [feat: attrset as filter conf](https://github.com/KittenConnect/nixconfigs/pull/62) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
 
 #### ⭐ Recent Stars
 
