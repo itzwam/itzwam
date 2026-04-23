@@ -22,16 +22,16 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [fix: nixConfig](https://github.com/KittenConnect/nixconfigs/pull/77) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
+- [fix: typo](https://github.com/KittenConnect/nixconfigs/pull/76) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
+- [chore: move out legacy code](https://github.com/KittenConnect/nixconfigs/pull/75) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
+- [chore: cleanup firewalling - keep profile as base &#43; optionize needed …](https://github.com/KittenConnect/nixconfigs/pull/74) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [feat: VRFs module](https://github.com/KittenConnect/nixconfigs/pull/73) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [feat: google compute profile](https://github.com/KittenConnect/nixconfigs/pull/72) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [feat: templates min MED](https://github.com/KittenConnect/nixconfigs/pull/71) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
 - [feat: hyperglass](https://github.com/KittenConnect/nixconfigs/pull/70) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
 - [fix: autoMED - bird configure in path](https://github.com/KittenConnect/nixconfigs/pull/69) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
 - [fix: autoMED path](https://github.com/KittenConnect/nixconfigs/pull/68) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
-- [fix: autoMED before bird](https://github.com/KittenConnect/nixconfigs/pull/67) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
-- [chore: autoMED](https://github.com/KittenConnect/nixconfigs/pull/66) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
-- [feat: auto med](https://github.com/KittenConnect/nixconfigs/pull/65) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
-- [feat: external peer generator](https://github.com/KittenConnect/nixconfigs/pull/64) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
 
 #### ⭐ Recent Stars
 
