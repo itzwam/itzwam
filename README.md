@@ -13,30 +13,30 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 👷 Check out what I'm currently working on
 
-- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (1 day ago)
-- [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) - Standalone replacement for systemd-tmpfiles (4 weeks ago)
-- [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel (4 weeks ago)
+- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (2 days ago)
+- [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) - Standalone replacement for systemd-tmpfiles (1 month ago)
+- [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
 
 #### 🔨 My recent Pull Requests
 
-- [feat: google compute profile](https://github.com/KittenConnect/nixconfigs/pull/72) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [feat: templates min MED](https://github.com/KittenConnect/nixconfigs/pull/71) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [feat: hyperglass](https://github.com/KittenConnect/nixconfigs/pull/70) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [fix: autoMED - bird configure in path](https://github.com/KittenConnect/nixconfigs/pull/69) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [fix: autoMED path](https://github.com/KittenConnect/nixconfigs/pull/68) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [fix: autoMED before bird](https://github.com/KittenConnect/nixconfigs/pull/67) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [chore: autoMED](https://github.com/KittenConnect/nixconfigs/pull/66) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [feat: auto med](https://github.com/KittenConnect/nixconfigs/pull/65) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [feat: external peer generator](https://github.com/KittenConnect/nixconfigs/pull/64) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
-- [chore: deprecate range lists for attrs](https://github.com/KittenConnect/nixconfigs/pull/63) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [feat: google compute profile](https://github.com/KittenConnect/nixconfigs/pull/72) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [feat: templates min MED](https://github.com/KittenConnect/nixconfigs/pull/71) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [feat: hyperglass](https://github.com/KittenConnect/nixconfigs/pull/70) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [fix: autoMED - bird configure in path](https://github.com/KittenConnect/nixconfigs/pull/69) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [fix: autoMED path](https://github.com/KittenConnect/nixconfigs/pull/68) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [fix: autoMED before bird](https://github.com/KittenConnect/nixconfigs/pull/67) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [chore: autoMED](https://github.com/KittenConnect/nixconfigs/pull/66) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [feat: auto med](https://github.com/KittenConnect/nixconfigs/pull/65) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [feat: external peer generator](https://github.com/KittenConnect/nixconfigs/pull/64) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
+- [chore: deprecate range lists for attrs](https://github.com/KittenConnect/nixconfigs/pull/63) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
 
 #### ⭐ Recent Stars
 
-- [Darkkal44/qylock](https://github.com/Darkkal44/qylock) - A cozy collection of sddm-themes &amp; quickshell lockscreen setups. (1 day ago)
-- [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache (1 day ago)
+- [Darkkal44/qylock](https://github.com/Darkkal44/qylock) - A cozy collection of sddm-themes &amp; quickshell lockscreen setups. (2 days ago)
+- [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache (2 days ago)
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 week ago)
 - [criteo/firmirror](https://github.com/criteo/firmirror) - LVFS at home/datacenters for your on-prem servers (1 month ago)
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services. (1 month ago)
