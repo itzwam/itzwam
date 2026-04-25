@@ -22,6 +22,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [feat: sops nix](https://github.com/KittenConnect/nixconfigs/pull/78) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [fix: nixConfig](https://github.com/KittenConnect/nixconfigs/pull/77) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
 - [fix: typo](https://github.com/KittenConnect/nixconfigs/pull/76) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
 - [chore: move out legacy code](https://github.com/KittenConnect/nixconfigs/pull/75) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
@@ -31,7 +32,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [feat: templates min MED](https://github.com/KittenConnect/nixconfigs/pull/71) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 days ago)
 - [feat: hyperglass](https://github.com/KittenConnect/nixconfigs/pull/70) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 days ago)
 - [fix: autoMED - bird configure in path](https://github.com/KittenConnect/nixconfigs/pull/69) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 days ago)
-- [fix: autoMED path](https://github.com/KittenConnect/nixconfigs/pull/68) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 days ago)
 
 #### ⭐ Recent Stars
 
