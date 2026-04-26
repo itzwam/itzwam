@@ -13,7 +13,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 👷 Check out what I'm currently working on
 
-- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (1 day ago)
+- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (2 days ago)
 - [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) - Standalone replacement for systemd-tmpfiles (1 month ago)
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel (1 month ago)
 
@@ -22,21 +22,22 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [feat: sops nix](https://github.com/KittenConnect/nixconfigs/pull/78) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [fix: nixConfig](https://github.com/KittenConnect/nixconfigs/pull/77) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
-- [fix: typo](https://github.com/KittenConnect/nixconfigs/pull/76) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
-- [chore: move out legacy code](https://github.com/KittenConnect/nixconfigs/pull/75) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
-- [chore: cleanup firewalling - keep profile as base &#43; optionize needed …](https://github.com/KittenConnect/nixconfigs/pull/74) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
-- [feat: VRFs module](https://github.com/KittenConnect/nixconfigs/pull/73) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
-- [feat: google compute profile](https://github.com/KittenConnect/nixconfigs/pull/72) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
-- [feat: templates min MED](https://github.com/KittenConnect/nixconfigs/pull/71) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 days ago)
-- [feat: hyperglass](https://github.com/KittenConnect/nixconfigs/pull/70) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 days ago)
-- [fix: autoMED - bird configure in path](https://github.com/KittenConnect/nixconfigs/pull/69) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 days ago)
+- [feat: gitnamed](https://github.com/KittenConnect/nixconfigs/pull/79) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [feat: sops nix](https://github.com/KittenConnect/nixconfigs/pull/78) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [fix: nixConfig](https://github.com/KittenConnect/nixconfigs/pull/77) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
+- [fix: typo](https://github.com/KittenConnect/nixconfigs/pull/76) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
+- [chore: move out legacy code](https://github.com/KittenConnect/nixconfigs/pull/75) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
+- [chore: cleanup firewalling - keep profile as base &#43; optionize needed …](https://github.com/KittenConnect/nixconfigs/pull/74) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
+- [feat: VRFs module](https://github.com/KittenConnect/nixconfigs/pull/73) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
+- [feat: google compute profile](https://github.com/KittenConnect/nixconfigs/pull/72) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 days ago)
+- [feat: templates min MED](https://github.com/KittenConnect/nixconfigs/pull/71) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (5 days ago)
+- [feat: hyperglass](https://github.com/KittenConnect/nixconfigs/pull/70) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [Darkkal44/qylock](https://github.com/Darkkal44/qylock) - A cozy collection of sddm-themes &amp; quickshell lockscreen setups. (4 days ago)
-- [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache (4 days ago)
+- [netboxlabs/netbox-branching](https://github.com/netboxlabs/netbox-branching) - Official NetBox Labs plugin that implements git-like branching functionality for NetBox (today)
+- [Darkkal44/qylock](https://github.com/Darkkal44/qylock) - A cozy collection of sddm-themes &amp; quickshell lockscreen setups. (5 days ago)
+- [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache (5 days ago)
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (2 weeks ago)
 - [criteo/firmirror](https://github.com/criteo/firmirror) - LVFS at home/datacenters for your on-prem servers (1 month ago)
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services. (1 month ago)
@@ -44,7 +45,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr. (2 months ago)
 - [ansman/git-praise](https://github.com/ansman/git-praise) - Use git-praise to find out who to thank for that magical piece of code. (11 months ago)
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles (1 year ago)
-- [puckipedia/tarnix](https://github.com/puckipedia/tarnix) - Who needs NAR files anyways? (2 years ago)
 
 #### 🕶️ Some uselessfull stats
 
