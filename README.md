@@ -22,6 +22,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: extract mkEnabledOption to kittenLib](https://github.com/KittenConnect/nixconfigs/pull/83) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [feat: sparkles](https://github.com/KittenConnect/nixconfigs/pull/82) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [feat: VRFs](https://github.com/KittenConnect/nixconfigs/pull/81) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [feat: autoMED](https://github.com/KittenConnect/nixconfigs/pull/80) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
@@ -31,7 +32,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [fix: typo](https://github.com/KittenConnect/nixconfigs/pull/76) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
 - [chore: move out legacy code](https://github.com/KittenConnect/nixconfigs/pull/75) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
 - [chore: cleanup firewalling - keep profile as base &#43; optionize needed …](https://github.com/KittenConnect/nixconfigs/pull/74) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
-- [feat: VRFs module](https://github.com/KittenConnect/nixconfigs/pull/73) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
 
 #### ⭐ Recent Stars
 
