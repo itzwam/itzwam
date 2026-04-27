@@ -22,6 +22,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [feat: make it work on python3](https://github.com/pubyun/gitnamed/pull/2) on [pubyun/gitnamed](https://github.com/pubyun/gitnamed) (today)
 - [chore: linting](https://github.com/KittenConnect/nixconfigs/pull/85) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [chore: refacto](https://github.com/KittenConnect/nixconfigs/pull/84) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [refactor: extract mkEnabledOption to kittenLib](https://github.com/KittenConnect/nixconfigs/pull/83) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
@@ -31,7 +32,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [feat: gitnamed](https://github.com/KittenConnect/nixconfigs/pull/79) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
 - [feat: sops nix](https://github.com/KittenConnect/nixconfigs/pull/78) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
 - [fix: nixConfig](https://github.com/KittenConnect/nixconfigs/pull/77) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 days ago)
-- [fix: typo](https://github.com/KittenConnect/nixconfigs/pull/76) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (4 days ago)
 
 #### ⭐ Recent Stars
 
