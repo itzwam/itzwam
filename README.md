@@ -22,6 +22,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
+- [feat: targetImage - using nixpkgs images module toplevels for updating images post-deployment](https://github.com/zhaofengli/colmena/pull/336) on [zhaofengli/colmena](https://github.com/zhaofengli/colmena) (today)
 - [feat: IA agent on PRs](https://github.com/KittenConnect/nixconfigs/pull/86) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
 - [feat: make it work on python3](https://github.com/pubyun/gitnamed/pull/2) on [pubyun/gitnamed](https://github.com/pubyun/gitnamed) (today)
 - [chore: linting](https://github.com/KittenConnect/nixconfigs/pull/85) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
@@ -31,7 +32,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [feat: VRFs](https://github.com/KittenConnect/nixconfigs/pull/81) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [feat: autoMED](https://github.com/KittenConnect/nixconfigs/pull/80) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
 - [feat: gitnamed](https://github.com/KittenConnect/nixconfigs/pull/79) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
-- [feat: sops nix](https://github.com/KittenConnect/nixconfigs/pull/78) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
 
 #### ⭐ Recent Stars
 
