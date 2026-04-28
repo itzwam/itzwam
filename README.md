@@ -13,7 +13,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 👷 Check out what I'm currently working on
 
-- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (3 days ago)
+- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (4 days ago)
 - [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) - Standalone replacement for systemd-tmpfiles (1 month ago)
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel (1 month ago)
 
@@ -22,22 +22,22 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [feat: targetImage - using nixpkgs images module toplevels for updating images post-deployment](https://github.com/zhaofengli/colmena/pull/336) on [zhaofengli/colmena](https://github.com/zhaofengli/colmena) (today)
-- [feat: IA agent on PRs](https://github.com/KittenConnect/nixconfigs/pull/86) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (today)
-- [feat: make it work on python3](https://github.com/pubyun/gitnamed/pull/2) on [pubyun/gitnamed](https://github.com/pubyun/gitnamed) (today)
-- [chore: linting](https://github.com/KittenConnect/nixconfigs/pull/85) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [chore: refacto](https://github.com/KittenConnect/nixconfigs/pull/84) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [refactor: extract mkEnabledOption to kittenLib](https://github.com/KittenConnect/nixconfigs/pull/83) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [feat: sparkles](https://github.com/KittenConnect/nixconfigs/pull/82) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [feat: VRFs](https://github.com/KittenConnect/nixconfigs/pull/81) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [feat: autoMED](https://github.com/KittenConnect/nixconfigs/pull/80) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
-- [feat: gitnamed](https://github.com/KittenConnect/nixconfigs/pull/79) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [feat: targetImage - using nixpkgs images module toplevels for updating images post-deployment](https://github.com/zhaofengli/colmena/pull/336) on [zhaofengli/colmena](https://github.com/zhaofengli/colmena) (1 day ago)
+- [feat: IA agent on PRs](https://github.com/KittenConnect/nixconfigs/pull/86) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 day ago)
+- [feat: make it work on python3](https://github.com/pubyun/gitnamed/pull/2) on [pubyun/gitnamed](https://github.com/pubyun/gitnamed) (1 day ago)
+- [chore: linting](https://github.com/KittenConnect/nixconfigs/pull/85) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [chore: refacto](https://github.com/KittenConnect/nixconfigs/pull/84) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [refactor: extract mkEnabledOption to kittenLib](https://github.com/KittenConnect/nixconfigs/pull/83) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [feat: sparkles](https://github.com/KittenConnect/nixconfigs/pull/82) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [feat: VRFs](https://github.com/KittenConnect/nixconfigs/pull/81) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [feat: autoMED](https://github.com/KittenConnect/nixconfigs/pull/80) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 days ago)
+- [feat: gitnamed](https://github.com/KittenConnect/nixconfigs/pull/79) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 days ago)
 
 #### ⭐ Recent Stars
 
-- [netboxlabs/netbox-branching](https://github.com/netboxlabs/netbox-branching) - Official NetBox Labs plugin that implements git-like branching functionality for NetBox (1 day ago)
-- [Darkkal44/qylock](https://github.com/Darkkal44/qylock) - A cozy collection of sddm-themes &amp; quickshell lockscreen setups. (6 days ago)
-- [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache (6 days ago)
+- [netboxlabs/netbox-branching](https://github.com/netboxlabs/netbox-branching) - Official NetBox Labs plugin that implements git-like branching functionality for NetBox (2 days ago)
+- [Darkkal44/qylock](https://github.com/Darkkal44/qylock) - A cozy collection of sddm-themes &amp; quickshell lockscreen setups. (1 week ago)
+- [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache (1 week ago)
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (2 weeks ago)
 - [criteo/firmirror](https://github.com/criteo/firmirror) - LVFS at home/datacenters for your on-prem servers (1 month ago)
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services. (1 month ago)
