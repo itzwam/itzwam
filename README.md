@@ -35,6 +35,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### ⭐ Recent Stars
 
+- [rustledger/rustledger](https://github.com/rustledger/rustledger) - Modern plain text accounting. Beancount compatible. (today)
 - [YukariChiba/wireguard-mpls](https://github.com/YukariChiba/wireguard-mpls) - Wireguard, but compatible with mpls, no MTU overhead (1 day ago)
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot. (3 days ago)
 - [netboxlabs/netbox-branching](https://github.com/netboxlabs/netbox-branching) - Official NetBox Labs plugin that implements git-like branching functionality for NetBox (1 week ago)
@@ -44,7 +45,6 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [criteo/firmirror](https://github.com/criteo/firmirror) - LVFS at home/datacenters for your on-prem servers (1 month ago)
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services. (2 months ago)
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer] (2 months ago)
-- [lance0/ttl](https://github.com/lance0/ttl) - Fast, modern traceroute with real-time TUI, per-hop stats, ASN/geo lookup, ECMP detection, and MPLS label parsing. A better mtr. (2 months ago)
 
 #### 🕶️ Some uselessfull stats
 
