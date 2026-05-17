@@ -13,7 +13,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 👷 Check out what I'm currently working on
 
-- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (1 week ago)
+- [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) - NixOS-based machines configurations inside our infrastructure (3 weeks ago)
 - [nixos-bsd/mini-tmpfiles](https://github.com/nixos-bsd/mini-tmpfiles) - Standalone replacement for systemd-tmpfiles (1 month ago)
 - [nixos-bsd/nixbsd](https://github.com/nixos-bsd/nixbsd) - An unofficial NixOS fork with a FreeBSD kernel (1 month ago)
 
@@ -22,29 +22,29 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### 🔨 My recent Pull Requests
 
-- [feat: toinux Home &#43; bird2 MPLS &#43; Wireguard patch](https://github.com/KittenConnect/nixconfigs/pull/87) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (6 days ago)
-- [feat: targetImage - using nixpkgs images module toplevels for updating images post-deployment](https://github.com/zhaofengli/colmena/pull/336) on [zhaofengli/colmena](https://github.com/zhaofengli/colmena) (1 week ago)
-- [feat: IA agent on PRs](https://github.com/KittenConnect/nixconfigs/pull/86) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 week ago)
-- [feat: make it work on python3](https://github.com/pubyun/gitnamed/pull/2) on [pubyun/gitnamed](https://github.com/pubyun/gitnamed) (1 week ago)
-- [chore: linting](https://github.com/KittenConnect/nixconfigs/pull/85) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 week ago)
-- [chore: refacto](https://github.com/KittenConnect/nixconfigs/pull/84) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 week ago)
-- [refactor: extract mkEnabledOption to kittenLib](https://github.com/KittenConnect/nixconfigs/pull/83) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 week ago)
-- [feat: sparkles](https://github.com/KittenConnect/nixconfigs/pull/82) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 week ago)
-- [feat: VRFs](https://github.com/KittenConnect/nixconfigs/pull/81) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 week ago)
-- [feat: autoMED](https://github.com/KittenConnect/nixconfigs/pull/80) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 week ago)
+- [DRAFT: FIX: MPLS Support](https://github.com/czerwonk/bird_exporter/pull/137) on [czerwonk/bird_exporter](https://github.com/czerwonk/bird_exporter) (1 week ago)
+- [feat: toinux Home &#43; bird2 MPLS &#43; Wireguard patch](https://github.com/KittenConnect/nixconfigs/pull/87) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 weeks ago)
+- [feat: targetImage - using nixpkgs images module toplevels for updating images post-deployment](https://github.com/zhaofengli/colmena/pull/336) on [zhaofengli/colmena](https://github.com/zhaofengli/colmena) (2 weeks ago)
+- [feat: IA agent on PRs](https://github.com/KittenConnect/nixconfigs/pull/86) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 weeks ago)
+- [feat: make it work on python3](https://github.com/pubyun/gitnamed/pull/2) on [pubyun/gitnamed](https://github.com/pubyun/gitnamed) (2 weeks ago)
+- [chore: linting](https://github.com/KittenConnect/nixconfigs/pull/85) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 weeks ago)
+- [chore: refacto](https://github.com/KittenConnect/nixconfigs/pull/84) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 weeks ago)
+- [refactor: extract mkEnabledOption to kittenLib](https://github.com/KittenConnect/nixconfigs/pull/83) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 weeks ago)
+- [feat: sparkles](https://github.com/KittenConnect/nixconfigs/pull/82) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 weeks ago)
+- [feat: VRFs](https://github.com/KittenConnect/nixconfigs/pull/81) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [rustledger/rustledger](https://github.com/rustledger/rustledger) - Modern plain text accounting. Beancount compatible. (today)
-- [YukariChiba/wireguard-mpls](https://github.com/YukariChiba/wireguard-mpls) - Wireguard, but compatible with mpls, no MTU overhead (1 day ago)
-- [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot. (3 days ago)
-- [netboxlabs/netbox-branching](https://github.com/netboxlabs/netbox-branching) - Official NetBox Labs plugin that implements git-like branching functionality for NetBox (1 week ago)
-- [Darkkal44/qylock](https://github.com/Darkkal44/qylock) - A cozy collection of sddm-themes &amp; quickshell lockscreen setups. (2 weeks ago)
-- [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache (2 weeks ago)
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (3 weeks ago)
-- [criteo/firmirror](https://github.com/criteo/firmirror) - LVFS at home/datacenters for your on-prem servers (1 month ago)
+- [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus] (4 days ago)
+- [rustledger/rustledger](https://github.com/rustledger/rustledger) - Modern plain text accounting. Beancount compatible. (1 week ago)
+- [YukariChiba/wireguard-mpls](https://github.com/YukariChiba/wireguard-mpls) - Wireguard, but compatible with mpls, no MTU overhead (1 week ago)
+- [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot. (2 weeks ago)
+- [netboxlabs/netbox-branching](https://github.com/netboxlabs/netbox-branching) - Official NetBox Labs plugin that implements git-like branching functionality for NetBox (3 weeks ago)
+- [Darkkal44/qylock](https://github.com/Darkkal44/qylock) - A cozy collection of sddm-themes &amp; quickshell lockscreen setups. (3 weeks ago)
+- [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache (3 weeks ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 month ago)
+- [premday/firmirror](https://github.com/premday/firmirror) - LVFS at home/datacenters for your on-prem servers (2 months ago)
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services. (2 months ago)
-- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer] (2 months ago)
 
 #### 🕶️ Some uselessfull stats
 
