@@ -35,7 +35,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 
 #### ⭐ Recent Stars
 
-- [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging (6 days ago)
+- [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging (1 week ago)
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus] (1 month ago)
 - [rustledger/rustledger](https://github.com/rustledger/rustledger) - Modern plain text accounting. Beancount compatible. (1 month ago)
 - [YukariChiba/wireguard-mpls](https://github.com/YukariChiba/wireguard-mpls) - Wireguard, but compatible with mpls, no MTU overhead (1 month ago)
