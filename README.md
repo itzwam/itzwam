@@ -27,11 +27,11 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [feat: targetImage - using nixpkgs images module toplevels for updating images post-deployment](https://github.com/nix-community/colmena/pull/336) on [nix-community/colmena](https://github.com/nix-community/colmena) (1 month ago)
 - [feat: IA agent on PRs](https://github.com/KittenConnect/nixconfigs/pull/86) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 month ago)
 - [feat: make it work on python3](https://github.com/pubyun/gitnamed/pull/2) on [pubyun/gitnamed](https://github.com/pubyun/gitnamed) (1 month ago)
-- [chore: linting](https://github.com/KittenConnect/nixconfigs/pull/85) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 month ago)
-- [chore: refacto](https://github.com/KittenConnect/nixconfigs/pull/84) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 month ago)
-- [refactor: extract mkEnabledOption to kittenLib](https://github.com/KittenConnect/nixconfigs/pull/83) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 month ago)
-- [feat: sparkles](https://github.com/KittenConnect/nixconfigs/pull/82) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 month ago)
-- [feat: VRFs](https://github.com/KittenConnect/nixconfigs/pull/81) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 month ago)
+- [chore: linting](https://github.com/KittenConnect/nixconfigs/pull/85) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 months ago)
+- [chore: refacto](https://github.com/KittenConnect/nixconfigs/pull/84) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 months ago)
+- [refactor: extract mkEnabledOption to kittenLib](https://github.com/KittenConnect/nixconfigs/pull/83) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 months ago)
+- [feat: sparkles](https://github.com/KittenConnect/nixconfigs/pull/82) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 months ago)
+- [feat: VRFs](https://github.com/KittenConnect/nixconfigs/pull/81) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 months ago)
 
 #### ⭐ Recent Stars
 
@@ -40,7 +40,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 - [rustledger/rustledger](https://github.com/rustledger/rustledger) - Modern plain text accounting. Beancount compatible. (1 month ago)
 - [YukariChiba/wireguard-mpls](https://github.com/YukariChiba/wireguard-mpls) - Wireguard, but compatible with mpls, no MTU overhead (1 month ago)
 - [cleverca22/not-os](https://github.com/cleverca22/not-os) - An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot. (1 month ago)
-- [netboxlabs/netbox-branching](https://github.com/netboxlabs/netbox-branching) - Official NetBox Labs plugin that implements git-like branching functionality for NetBox (1 month ago)
+- [netboxlabs/netbox-branching](https://github.com/netboxlabs/netbox-branching) - Official NetBox Labs plugin that implements git-like branching functionality for NetBox (2 months ago)
 - [Darkkal44/qylock](https://github.com/Darkkal44/qylock) - A cozy collection of sddm-themes &amp; quickshell lockscreen setups. (2 months ago)
 - [cachix/cachix-action](https://github.com/cachix/cachix-action) - Build software only once and put it in a global cache (2 months ago)
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (2 months ago)
