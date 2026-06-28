@@ -23,7 +23,7 @@ My name is Antoine 'toinux' Lesieur, I'm an SRE that make [S3NS](https://s3ns.io
 #### 🔨 My recent Pull Requests
 
 - [DRAFT: FIX: MPLS Support](https://github.com/czerwonk/bird_exporter/pull/137) on [czerwonk/bird_exporter](https://github.com/czerwonk/bird_exporter) (1 month ago)
-- [feat: toinux Home &#43; bird2 MPLS &#43; Wireguard patch](https://github.com/KittenConnect/nixconfigs/pull/87) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (1 month ago)
+- [feat: toinux Home &#43; bird2 MPLS &#43; Wireguard patch](https://github.com/KittenConnect/nixconfigs/pull/87) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 months ago)
 - [feat: targetImage - using nixpkgs images module toplevels for updating images post-deployment](https://github.com/nix-community/colmena/pull/336) on [nix-community/colmena](https://github.com/nix-community/colmena) (2 months ago)
 - [feat: IA agent on PRs](https://github.com/KittenConnect/nixconfigs/pull/86) on [KittenConnect/nixconfigs](https://github.com/KittenConnect/nixconfigs) (2 months ago)
 - [feat: make it work on python3](https://github.com/pubyun/gitnamed/pull/2) on [pubyun/gitnamed](https://github.com/pubyun/gitnamed) (2 months ago)
